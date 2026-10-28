@@ -1,0 +1,178 @@
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4g9gBGpR/Black-Bold-Initial-AI-Business-Logo-20241014-161953-0000.png" group-title="┃LANGUAGE INTRO┃",GUJARATI
+https://hr02-ynr.github.io/yr/17.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5hpCGxYS/images.jpg" group-title="┃GUJARATI PREMIUM┃",COLORS GUJARATI ᴴᴰ
+http://tv.cloudcdn.me:80/live.ts?channelId=19468&uid=15301&deviceMac=00:1A:79:31:34:0E
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/5hpCGxYS/images.jpg" group-title="┃GUJARATI PREMIUM┃",COLORS GUJARATI CINEMA
+http://tv.cloudcdn.me:80/live.ts?channelId=78857&uid=15301&deviceMac=00:1A:79:31:34:0E
+
+#EXTINF:-1 tvg-id="lakshyatv" tvg-name="LakshyaTV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/lakshyatv-black.png" tvg-language="Gujarati" group-title="┃GUJARATI SD┃",LakshyaTV
+https://yuppnimrestreammum.akamaized.net/181224/smil:lakshyatv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22994/kalyan-tv/poster_20231017_223758.jpg" group-title="┃GUJARATI SD┃",Kalyan TV
+http://tv.cloudcdn.me:80/live.ts?channelId=132243&uid=15301&deviceMac=00:1A:79:31:34:0E
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x859YyBK/channels4-profile.jpg" group-title="┃GUJARATI SD┃", VALAM TV
+http://cabletv.valamtv.in/hls/stream0.m3u8
+
+#EXTINF:-1 tvg-id="3508" tvg-name="Valam TV Dayro" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ValamTVDayro.png" tvg-language="Gujarati" group-title="┃GUJARATI SD┃", Valam TV Dayro
+https://dayro.valamtv.in/hls/shree/bhattji.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bWpnrRL/Shiksha-TV.png" group-title="┃GUJARATI SD┃", Shiksha TV
+https://5dd3981940faa.streamlock.net/shikshatvhd/shikshatvhd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/pqeztp.jpeg" group-title="┃GUJARATI SD┃",Aastha Gujarati
+https://aasthaott.akamaized.net/110923/smil:aasthagujrati.smil/playlist.m3u8 
+
+#EXTINF:-1 tvg-id="vtv-gujarati" tvg-name="VTV Gujarati" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/VTV-Gujarati_TV_black.png" tvg-language="Gujarati" group-title="┃GUJARATI SD┃",VTV Gujarati
+https://d1msejlow1t3l4.cloudfront.net/fta/vtvgujarati/playlist.m3u8?ads.channel=6420&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1779907235~exp=1779928835~acl=!*/fta/vtvgujarati/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_48.214.55.66_yuppfast_2_channel_165_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_48.214.55.66_yuppfast_2_channel_165_-1~hmac=c7a1abb569e7ec157ab2fd959623c20fe574976a35fb7f7c2517d9663884007e&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=VTVGujarati&ads.language=GUA&ads.user=0
+
+#EXTINF:-1, tvg-logo="https://i.ibb.co/qYGdzQ41/images-4.png" group-title="┃GUJARATI SD┃",GANGAUR TELEVISION
+https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PZLLP5Sd/images-1.png" group-title="┃GUJARATI SD┃", NEWS 18 GUJARATI 
+https://nw18live.cdn.jio.com/bpk-tv/News18_Gujarati_NW18_MOB/output01/index.m3u8
+
+#EXTINF:-1 tvg-id="abps8" group-title="┃GUJARATI SD┃" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/abp_asmita.png",ABP Asmita
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/asmita-livetv/master.m3u8
+
+#EXTINF:-1 tvg-id="TV9Gujarati.in" tvg-logo="https://i.imgur.com/Cvuthal.png" group-title="┃GUJARATI SD┃",TV9 Gujarati 
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9guj3ki8lu/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1790" tvg-name="VR Live" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/VRLive.png" tvg-language="Gujarati" group-title="┃GUJARATI SD┃", VR Live
+https://channel.vrlivegujarat.com/hls/vrchannel.m3u8
+
+#EXTINF:-1 tvg-id="2028" tvg-name="Sadvidya TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sadvidya_TV.png" tvg-language="Gujarati" group-title="┃GUJARATI SD┃", Sadvidya TV
+https://server.thelegitpro.in/sadvidya/sadvidya/index.m3u8
+
+#EXTINF:-1 tvg-id="3365" tvg-name="Newz Room Gujarat" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Newz_Room_Gujarat.png" tvg-language="Gujarati" group-title="┃GUJARATI SD┃", Newz Room Gujarat
+https://live.thenewzroom.in/hls/shree/bhattji.m3u8
+
+#EXTINF:-1 tvg-id="TV13Gujarati.in@SD" tvg-logo="https://i.ibb.co/84YYs6ch/channels4-profile.jpg" group-title="┃GUJARATI SD┃" ,TV13 Gujarati 
+https://live.wrencdn.in/wrencdn/hls/tv13_web/index.m3u8
+
+#EXTINF:-1 tvg-id="3380" tvg-name="Pradesh24 Gujarati" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pradesh24_Gujarati.png" tvg-language="Gujarati" group-title="┃GUJARATI SD┃", Pradesh24 Gujarati
+https://stream2.livebox.co.in/pradesh24hls/live.m3u8 
+
+#EXTINF:-1 tvg-id="3312" tvg-name="Gj Desi News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gj_Desi_News.png" tvg-language="Gujarati" group-title="┃GUJARATI SD┃", Gj Desi News
+https://newsliveindia.com:4433/gjdeshi/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/newscapitalgujarat.png" group-title="┃GUJARATI SD┃",News Capital Gujarat 
+http://tv.cloudcdn.me:80/live.ts?channelId=90144&uid=15301&deviceMac=00:1A:79:31:34:0E
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ycLN8znk/images-4.jpg" group-title="┃GUJARATI SD┃",MANTAVYA NEWS
+http://tv.cloudcdn.me:80/live.ts?channelId=90136&uid=15301&deviceMac=00:1A:79:31:34:0E
+
+#EXTINF:0 tvg-id="ext" group-title="┃GUJARATI SD┃",Zee 24 Kalak
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-zeekalak-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sp00mJwr/Black-Bold-Initial-AI-Business-Logo-20241014-162016-0000.png" group-title="┃LANGUAGE INTRO┃",TAMIL
+https://hr02-ynr.github.io/yr/18.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fWQWxLM/channels4-profile-1.jpg" group-title="┃TAMIL PREMIUM┃", Zee Tamil
+http://proxpanel.cc:80/h1wqD6CY/byxHYgX/693730
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B2tdhnCf/colour-tamil-656x388.jpg" group-title="┃TAMIL PREMIUM┃", COLORS TAMIL
+http://tv.cloudcdn.me:80/live.ts?channelId=43408&uid=15301&deviceMac=00:1A:79:31:34:0E
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/wdsLSLK/images-2.jpg" group-title="┃TAMIL PREMIUM┃", STAR VIJAY
+http://proxpanel.cc:80/h1wqD6CY/byxHYgX/693744
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d05tSffV/images.jpg" group-title="┃TAMIL PREMIUM┃",VIJAY SUPER 
+http://proxpanel.cc:80/h1wqD6CY/byxHYgX/693732
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k6Pp1Wtk/images-1.jpg" group-title="┃TAMIL PREMIUM┃",VIJAY TAKKAR
+http://tv.cloudcdn.me:80/live.ts?channelId=89830&uid=15301&deviceMac=00:1A:79:31:34:0E
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k6Pp1Wtk/images-1.jpg" group-title="┃TAMIL PREMIUM┃",VIJAY TAKKAR ᴴᴰ
+https://tglmp01.akamaized.net/out/v1/c1071012b73f4f189b202e1529e8f802/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WWZWLyTs/1000x1500-Sun-TV-194408-a77ab1c2-e7b1-40bb-8885-9216173d7c89.jpg" group-title="┃TAMIL PREMIUM┃",SUN TV ᴴᴰ
+https://d2px1d6ssc60fw.cloudfront.net/SunTV/SunTV-HDR10-IN-index.m3u8
+
+#EXTINF:-1 tvg-id="sunmusic.in" tvg-logo="https://i.ibb.co/zV83W7hQ/images.png" group-title="┃TAMIL PREMIUM┃",SUN MUSIC ᴴᴰ
+http://tv.cloudcdn.me:80/live.ts?channelId=43420&uid=15301&deviceMac=00:1A:79:31:34:0E
+
+#EXTINF:0 group-title="┃TAMIL PREMIUM┃"  tvg-logo="https://i.ibb.co/LDkNmyTF/images-6.jpg",SUN LIFE ᴴᴰ
+http://tv.cloudcdn.me:80/live.ts?channelId=89833&uid=15301&deviceMac=00:1A:79:31:34:0E
+
+#EXTINF:-1  tvg-name="" group-title="┃TAMIL SD┃" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240402_0244113518845900804817006.png",Thalaa Tv
+https://streams2.sofast.tv/ptnr-yupptv/title-THALAA-TV-TAM_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8
+ 
+#EXTINF:-1  tvg-name="" group-title="┃TAMIL SD┃" tvg-logo="https://play-lh.googleusercontent.com/ZM9c5byu9C9Xv7oeGbIyVgDQsDtx5L-gNIKpfYeomlCRDoIAjOzOhp67wP2Ggu7JvAY=w240-h480-rw",Ramya TV
+http://brightmeltech.in/ramyatv/ramyatv.m3u8
+
+#EXTINF:-1 channel-id="IN400061DB" tvg-id="IN400061DB" tvg-chno="1331" tvg-name="NH Tamil Gold" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN400061DB_20260513T005538SQUARE.png" group-title="┃TAMIL SD┃",NH Tamil Gold
+https://jmp2.uk/stvp-IN400061DB
+
+#EXTINF:-1 tvg-id="DDTamil.in@SD" tvg-logo="https://i.ibb.co/35YFtRKV/images.jpg" group-title="┃TAMIL SD┃",DD Tamil 
+https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8
+
+#EXTINF:-1 tvg-id="DheeranTV.in" tvg-name="DHEERAN TV" tvg-logo="https://i.ibb.co/nMKK5NzJ/images-3.jpg" group-title="┃TAMIL SD┃",Dheeran TV 
+https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4Db4zvg/Mom2kxdd-400x400.jpg" group-title="┃TAMIL SD┃", PUTHUYUGAM TV 
+https://mumt04.tangotv.in/m18aqlK4PUTHUYUGAMTV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rGtTKsfH/images-2.jpg" group-title="┃TAMIL SD┃", VAANAVIL
+https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DfGYhz7j/images-1.jpg" group-title="┃TAMIL SD┃", Village TV 
+https://villagetv.applelive.in/villagetv/villagetv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yF0jrwcz/images.png" group-title="┃TAMIL SD┃", Murasu 
+https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4RdPyMY/images-3.jpg" group-title="┃TAMIL SD┃", Dharshan Tv 
+https://cable91tataplay.akamaized.net/live/dharshantv/index.m3u8
+
+#EXTINF:-1 tvg-id="3201" tvg-name="Sana TV" tvg-logo="http://103.180.212.191:3500/jtvimage/sanatv.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="┃TAMIL SD┃", Sana TV
+https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8
+
+#EXTINF: -1 tvg-id="175" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240307_0058221296057793002455467.png" group-title="┃TAMIL SD┃", News7 Tamil
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/news7_nim_https/240122/news7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RojaMovies.in@SD" tvg-logo="https://i.ibb.co/7JGZmRY2/images-1.jpg" group-title="┃TAMIL SD┃",Roja Movies 
+https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
+
+#EXTINF:-1 tvg-id="RojaTV.in@SD" tvg-logo="https://i.ibb.co/2Hb9Z2R/unnamed.webp" group-title="┃TAMIL SD┃",Roja TV 
+https://live.rojatv.cloud/rojatv/rojatv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/Malai_Murasu/Logo-400x200_Updated.jpg" group-title="┃TAMIL SD┃", MALAI MURASU SETHIGAL 
+https://amg17783-amg17783c1-amgplt0173.playout.now3.amagi.tv/playlist/amg17783-amg17783c1-amgplt0173/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AsianetNewsTamil.in" tvg-logo="https://i.imgur.com/pGA2R8l.png" group-title="┃TAMIL SD┃",Asianet News Tamil 
+https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1YG0Yfsm/images-2.png" group-title="┃TAMIL SD┃", NEWS 18 TAMIL NADU 
+https://jmp2.uk/stvp-INBD25000148M
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/4g1nrXhb/images-3.png" group-title="┃TAMIL SD┃",Suriyan TV
+https://stream.sscloud7.com/live/suriyantv/index.m3u8
+
+#EXTINF: -1 tvg-id="425" tvg-chno="11" tvg-logo="https://tatalogo.pages.dev/425.png" group-title="┃TAMIL SD┃", Raj Musix TAMIL
+https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8
+
+#EXTINF:-1  tvg-name="Aadhavan Tv" group-title="┃TAMIL SD┃" tvg-logo="https://athavantv.com/wp-content/uploads/2019/06/athavantv1.png",Aadhavan Tv
+https://tll-local.okmthiru04.workers.dev/athavantv
+ 
+#EXTINF:-1 tvg-id="polimernews.in" tvg-logo="" group-title="┃TAMIL SD┃", POLIMER NEWS
+https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3393" tvg-name="NTC TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ntvtamil.png" tvg-language="Tamil" group-title="┃TAMIL SD┃", NTC TV
+https://cable85tataplay.akamaized.net/live/ntvpkt/index.m3u8
+
+#EXTINF:-1 tvg-id="3357" tvg-name="Dharsan TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/dharshantvtamil.png" tvg-language="Tamil" group-title="┃TAMIL SD┃", Dharsan TV
+https://cable91tataplay.akamaized.net/live/dharshantv/index.m3u8
+
+#EXTINF:-1 tvg-id="3360" tvg-name="Subin TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/subintvtamil.png" tvg-language="Tamil" group-title="┃TAMIL SD┃", Subin TV
+https://stream.galaxyott.live/live/subintv/index.m3u8
+
+#EXTINF:-1 tvg-id="UTV" tvg-chno="1807" tvg-name="UTV Tamil" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/utv-logo-com-1774905266556.png" group-title="┃TAMIL SD┃",UTV Tamil
+https://stream.ottlive.co.in/utvtamil/index.m3u8
+
+#EXTINF:-1 tvg-id="OLI TV" tvg-chno="1808" tvg-name="Oli TV" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/oli-1776458876096.jpg" group-title="┃TAMIL SD┃",Oli TV
+https://hlslive.olidigital.in/olitv/olitv/index.m3u8

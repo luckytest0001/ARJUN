@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "include": ["/api/*"],
+  "exclude": [
+    "/assets/*",
+    "/favicon.ico",
+    "/sw.js",
+    "/yaaro_playlist.m3u",
+    "/yaaro_playlist.json"
+  ]
+}

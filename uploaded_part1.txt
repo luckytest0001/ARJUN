@@ -1,0 +1,296 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/23sc4MV3/p.png", group-title="┃SUBSCRIBE MY CHANNEL┃",Yaaro Ka Yaar
+https://www.youtube.com/channel/UC5WQB5AHXpiV8p4itWgyanA?sub_confirmation=1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LkbZgmY/unnamed-1.png" group-title="┃SUBSCRIBE MY YOUTUBE & TELEGRAM┃",JOIN YOUTUBE & TELEGRAM
+https://yaarokayaar1110.github.io/subscribe/output.ts
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GvwvSkHx/creative-design-icon-of-server-error-vector.jpg" group-title="┃INTRO┃",SERVER ERROR!
+https://hr02-ynr.github.io/no/yo.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Nd5dqzYg/Media-channel-20241022-213636-0000.png" group-title="┃MY IPTV CHANNEL┃",Yaaro Ka Yaar Media Channel ᴴᴰ
+#http://proyaarokayaar.yaarokayaar2026iptv.fun
+https://pixeldrain.dev/api/file/aR7SpWFM
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y7H5cR8z/images.jpg" group-title="┃OTT SPECIAL┃",BIG BOSS 20 ᴴᴰ
+http://yaarokayaarlive2026iptv.online
+
+#EXTINF:-1 tvg-id="SONY HD" tvg-logo="https://i.ibb.co/tptfLr0L/unnamed.png"  group-title="┃SONYLIV OTT ▶ Premium┃",SONY TV ᴴᴰ ▶
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://cloudplay-sonyliv.pages.dev/sethd.m3u8
+
+#EXTINF:-1 tvg-id="SONY HD" tvg-logo="https://i.ibb.co/tptfLr0L/unnamed.png"  group-title="┃SONYLIV OTT ▶ Premium┃",SONY TV ᴜʟᴛʀa ▶
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009246|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009246
+
+#EXTINF: -1 tvg-id="471" tvg-logo="https://i.ibb.co/tptfLr0L/unnamed.png" group-title="┃SONYLIV OTT ▶ Premium┃",SONY SAB ᴴᴰ ▶
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://cloudplay-sonyliv.pages.dev/sabhd.m3u8
+
+#EXTINF: -1 tvg-id="471" tvg-logo="https://i.ibb.co/tptfLr0L/unnamed.png" group-title="┃SONYLIV OTT ▶ Premium┃",SONY SAB ᴜʟᴛʀa ▶
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009248|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009248
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tptfLr0L/unnamed.png" tvg-chno="8" group-title="┃SONYLIV OTT ▶ Premium┃",Sony pal ᴴᴰ ▶
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://cloudplay-sonyliv.pages.dev/pal.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tptfLr0L/unnamed.png" tvg-chno="8" group-title="┃SONYLIV OTT ▶ Premium┃",Sony pal ᴜʟᴛʀa ▶
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009273|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009273
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tptfLr0L/unnamed.png" tvg-chno="22" group-title="┃SONYLIV OTT ▶ Premium┃",Sony WAH ᴴᴰ ▶
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://cloudplay-sonyliv.pages.dev/wah.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tptfLr0L/unnamed.png" tvg-chno="22" group-title="┃SONYLIV OTT ▶ Premium┃",Sony WAH ᴜʟᴛʀa ▶
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009253|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009253
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tptfLr0L/unnamed.png" tvg-chno="22" group-title="┃SONYLIV OTT ▶ Premium┃",Sony MAX ▶
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://cloudplay-sonyliv.pages.dev/max.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tptfLr0L/unnamed.png" tvg-chno="22" group-title="┃SONYLIV OTT ▶ Premium┃",Sony MAX ᴜʟᴛʀa ▶
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009249|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009249
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tptfLr0L/unnamed.png" tvg-chno="22" group-title="┃SONYLIV OTT ▶ Premium┃",Sony MAX  ᴴᴰ ▶
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://cloudplay-sonyliv.pages.dev/maxhd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tptfLr0L/unnamed.png" tvg-chno="22" group-title="┃SONYLIV OTT ▶ Premium┃",Sony MAX  ᴜʟᴛʀa ▶
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009247|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009247
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tptfLr0L/unnamed.png" tvg-chno="22" group-title="┃SONYLIV OTT ▶ Premium┃",Sony MAX 2 ᴴᴰ ▶
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://cloudplay-sonyliv.pages.dev/max2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tptfLr0L/unnamed.png" tvg-chno="22" group-title="┃SONYLIV OTT ▶ Premium┃",Sony MAX 2 ᴜʟᴛʀa ▶
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000044878|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000044878
+
+#EXTINF:-1 tvg-id="sony-sab" tvg-logo="https://i.ibb.co/9H8mBLSg/images.jpg" group-title="┃SONYLIV┃",SONY SAB SD OFFICIAL INDIA 
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://fifa.assadikb.workers.dev/?id=sonysab_hd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/wZB769nx/add-to-favorite-icon-in-flat-style-free-png.png" group-title="┃FAVORITE OTT ▶┃",ZEE TV FAV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://d1rc86nwwc9fag.cloudfront.net/260723/zeetvapachd_2500/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/wZB769nx/add-to-favorite-icon-in-flat-style-free-png.png" group-title="┃FAVORITE OTT ▶┃",ZEE CINEMA FAV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeecinemaapachd.smil/chunklist_b2628000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/wZB769nx/add-to-favorite-icon-in-flat-style-free-png.png" group-title="┃FAVORITE OTT ▶┃",COLORS FAV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/wZB769nx/add-to-favorite-icon-in-flat-style-free-png.png" group-title="┃FAVORITE OTT ▶┃",COLORS RISTEY FAV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://d1rc86nwwc9fag.cloudfront.net/260723/rishteyuk_1800/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/wZB769nx/add-to-favorite-icon-in-flat-style-free-png.png" group-title="┃FAVORITE OTT ▶┃",COLORS CINEPLEX FAV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://d1rc86nwwc9fag.cloudfront.net/260723/smil:rishteycineplexukdev.smil/chunklist_b1928000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/wZB769nx/add-to-favorite-icon-in-flat-style-free-png.png" group-title="┃FAVORITE OTT ▶┃",STAR PLUS FAV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/wZB769nx/add-to-favorite-icon-in-flat-style-free-png.png" group-title="┃FAVORITE OTT ▶┃",STAR/UTSAV BHARAT FAV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://d1taaads3ztvmu.cloudfront.net/120723/smil:lifeokuk.smil/chunklist_b2628000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/wZB769nx/add-to-favorite-icon-in-flat-style-free-png.png" group-title="┃FAVORITE OTT ▶┃",MTV INDIA FAV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/wZB769nx/add-to-favorite-icon-in-flat-style-free-png.png" group-title="┃FAVORITE OTT ▶┃",COLORS TAMIL FAV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/wZB769nx/add-to-favorite-icon-in-flat-style-free-png.png" group-title="┃FAVORITE OTT ▶┃",COLORS GUJARATI FAV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://d1rc86nwwc9fag.cloudfront.net/260723/smil:etvguj1.smil/chunklist_b1928000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/wZB769nx/add-to-favorite-icon-in-flat-style-free-png.png" group-title="┃FAVORITE OTT ▶┃",ZEE BANGLA FAV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b2628000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/wZB769nx/add-to-favorite-icon-in-flat-style-free-png.png" group-title="┃FAVORITE OTT ▶┃",ZEE MARATHI FAV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeemarathi.smil/chunklist_b2628000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/wZB769nx/add-to-favorite-icon-in-flat-style-free-png.png" group-title="┃FAVORITE OTT ▶┃",ZEE TELUGU FAV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://d1rc86nwwc9fag.cloudfront.net/260723/zeetelugu_2500/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/wZB769nx/add-to-favorite-icon-in-flat-style-free-png.png" group-title="┃FAVORITE OTT ▶┃",ZEE KANNADA FAV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://yuppnimresmum.akamaized.net/28072023/smil:zeekannadahd.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF: -1 tvg-id="136" tvg-chno="83" tvg-logo="https://i.ibb.co/Xkpn9fjb/MV5-BNDc2-ZTRh-Mz-Ut-Mz-Jk-Mi00-OGYy-LTgw-MTAt-ODQx-YWY4-Mm-Fi-Njlm-Xk-Ey-Xk-Fqc-Gc-V1-FMjpg-UX1000.jpg" group-title="┃OTT SPECIAL┃", 5 Minutes Crafts
+https://amg02051-soulpublishing-amg02051c7-lg-in-1018.playouts.now.amagi.tv/playlist/amg02051-admecyltd-5minutecraftsenglish-lgin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="262" tvg-chno="104" tvg-name="comedy-tadka" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/tdkonc.png" group-title="┃OTT SPECIAL┃", COMEDY TADKA
+https://streams2.sofast.tv/ptnr-yupptv/title-Comedy_Tadka_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/0abe00bb-b6f3-4dcd-bdf6-12e74e08216c/master.m3u8?hdnts=st%3D1752285064~exp%3D1752306664~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-Comedy_Tadka_YUPPTV%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F0abe00bb-b6f3-4dcd-bdf6-12e74e08216c%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.171.237.20_yuppfast_2_channel_262_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.171.237.20_yuppfast_2_channel_262_-1~hmac%3D09d04ad3dd171d46c0efbe22adecee5ade45ef7e4072c5ffea628e09302f1022
+
+#EXTINF:-1 tvg-id="63651" tvg-name="Kings Of Comedy" tvg-logo="https://i.ibb.co/WNRyVQhP/images-1.png" group-title="┃OTT SPECIAL┃", Kings Of Comedy SPECIAL
+https://jmp2.uk/stvp-IN46000184H
+
+#EXTINF:-1 tvg-id="265" tvg-chno="105" tvg-name="diy-art" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/dayyvk.png" group-title="┃OTT SPECIAL┃", DIY ART
+https://streams2.sofast.tv/ptnr-yupptv/title-DIY-ART_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2cafac16-f982-4563-9951-ccd6ab0c2c6b/manifest.m3u8?hdnts=st%3D1752285064~exp%3D1752306664~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-DIY-ART_YUPPTV%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F2cafac16-f982-4563-9951-ccd6ab0c2c6b%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.171.237.20_yuppfast_2_channel_265_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.171.237.20_yuppfast_2_channel_265_-1~hmac%3Dd7df3604c418c3422881f901bb32989add7e9425aa038f296bd302c1166a6df0
+
+#EXTINF:-1 tvg-id="BLOODY_SWEET" tvg-name="The Unmute" tvg-type="LIVE" tvg-genre="News,Global News,Current Affairs,Asian" group-title="┃OTT SPECIAL┃" tvg-logo="https://i.ibb.co/RGpgd7PK/1638598045906.jpg",The Unmute
+https://stream.ottlive.co.in/unmute/index.m3u8
+
+#EXTINF:-1 channel-id="samsung-IN4600004HW" tvg-id="IN4600004HW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600004HW_20250416T005413SQUARE.png" group-title="┃OTT SPECIAL┃" ,House of Crime OTT Hindi
+https://jmp2.uk/stvp-IN4600004HW
+
+#EXTINF:-1 channel-id="samsung-IN460000585" tvg-id="IN460000585" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460000585_20250416T020413SQUARE.png" group-title="┃OTT SPECIAL┃" ,Wild Flix OTT Hindi
+https://jmp2.uk/stvp-IN460000585
+
+#EXTINF:-1 channel-id="samsung-IN46000011Q" tvg-id="IN46000011Q" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000011Q_20250205T004626SQUARE.png" group-title="┃OTT SPECIAL┃" ,XXTreme Jobs OTT Hindi
+https://jmp2.uk/stvp-IN46000011Q
+
+#EXTINF:-1 channel-id="samsung-IN4600011RZ" tvg-id="IN4600011RZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600011RZ_20250205T004553SQUARE.png" group-title="┃OTT SPECIAL┃" ,Bhakti Play OTT Hindi
+https://jmp2.uk/stvp-IN4600011RZ
+
+#EXTINF:-1 channel-id="IN46000105Q" tvg-id="IN46000105Q" tvg-chno="1366" tvg-name="Cook & Bake" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000105Q_20260225T010339SQUARE.png" group-title="┃OTT SPECIAL┃",Cook & Bake
+https://jmp2.uk/stvp-IN46000105Q
+
+#EXTINF:-1 channel-id="IN30009003" tvg-id="IN30009003" tvg-chno="1416" tvg-name="Dharma Live" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN30009003_20260408T011502SQUARE.png" group-title="┃OTT SPECIAL┃",Dharma Live
+https://jmp2.uk/stvp-IN30009003
+
+#EXTINF:-1 channel-id="IN3600007DC" tvg-id="IN3600007DC" tvg-chno="1123" tvg-name="Auto Live" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3600007DC_20251203T010208SQUARE.png" group-title="┃OTT SPECIAL┃",Auto Live
+https://jmp2.uk/stvp-IN3600007DC
+
+#EXTINF:-1 channel-id="IN400000830" tvg-id="IN400000830" tvg-chno="1121" tvg-name="ENT Live" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN400000830_20251126T004252SQUARE.png" group-title="┃OTT SPECIAL┃",ENT Live
+https://jmp2.uk/stvp-IN400000830
+
+#EXTINF:-1 channel-id="IN400064VZ" tvg-id="IN400064VZ" tvg-chno="1143" tvg-name="Punjabi Shorts" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN400064VZ_20260528T040607SQUARE.png" group-title="┃OTT SPECIAL┃",Punjabi Shorts
+https://jmp2.uk/stvp-IN400064VZ
+
+#EXTINF:-1 channel-id="IN300091WU" tvg-id="IN300091WU" tvg-chno="1141" tvg-name="Sansani Live" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN300091WU_20260408T011518SQUARE.png" group-title="┃OTT SPECIAL┃",Sansani Live
+https://jmp2.uk/stvp-IN300091WU
+
+#EXTINF:-1 tvg-id="3492" tvg-name="AlrightTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/alrght.png" tvg-language="Hindi" group-title="┃OTT SPECIAL┃", AlrightTV
+https://supflm.cdn.runn.tv/ruskmedia/stream/alrght/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3533" tvg-name="Dice Media" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/dicmed.png" tvg-language="Hindi" group-title="┃OTT SPECIAL┃", Dice Media
+https://supflm.cdn.runn.tv/pocketaces/stream/dicmed/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3534" tvg-name="FilterCopy" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/fltrcopy.png" tvg-language="Hindi" group-title="┃OTT SPECIAL┃", FilterCopy
+https://supflm.cdn.runn.tv/pocketaces/stream/fltrcopy/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3502" tvg-name="Kadak" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kadak.png" tvg-language="Hindi" group-title="┃OTT SPECIAL┃", Kadak
+https://n18syndication.akamaized.net/bpk-tv/Kadak_NW18_MOB/output01/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="210" tvg-name="Swastik Stories" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/swastik-1775043332365.jpg" group-title="┃OTT SPECIAL┃",Swastik Stories
+https://amg14122-amg14122c1-amgplt0835.playout.now3.amagi.tv/playout/amg14122/amg14122c1/amgplt0835/amgplt0835.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="808" tvg-name="Knock TV Punjabi" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/knock-tv-1777673558733.jpg" group-title="┃OTT SPECIAL┃",Knock TV Punjabi
+https://knocktv.wiseplayout.com/Knock_TV/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="808" tvg-name="Pure Pink Punjabi" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/pure-pink-1777672998614.jpg" group-title="┃OTT SPECIAL┃",Pure Pink Punjabi
+https://knocktv1.wiseplayout.com/PurePink/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="813" tvg-name="Vii Media" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/vii-media-1774023100562.jpg" group-title="┃OTT SPECIAL┃",Vii Media
+https://viimediacdn.wiseplayout.com/viimedia/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="818" tvg-name="Knock Bhakti Punjabi" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/KNOCK-BHAKTI-1778019474657.jpg" group-title="┃OTT SPECIAL┃",Knock Bhakti Punjabi
+https://knocktv2.wiseplayout.com/Knock_Bhakti_EST/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="820" tvg-name="Knock News Punjabi" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/knock-news-1777673381670.jpg" group-title="┃OTT SPECIAL┃",Knock News Punjabi
+https://knocktv.wiseplayout.com/Knock_News/master.m3u8
+
+#EXTINF:-1 tvg-id="3544" tvg-name="Eros Universe Entertainment" tvg-logo="https://i.ibb.co/LdpCG2wy/channels4-profile-1.jpg" tvg-language="Hindi" group-title="┃OTT SPECIAL┃", Eros Universe Entertainment
+https://airtel-eros-entrtnmnt.cdn.runn.tv/eros/stream/ersent/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3543" tvg-name="Eros Universe Bollywood Cinema" tvg-logo="https://i.ibb.co/xthPmD4h/channels4-profile.jpg" tvg-language="Hindi" group-title="┃OTT SPECIAL┃", Eros Universe Bollywood Cinema
+https://airtel-eros-blywdcnm.cdn.runn.tv/eros/stream/blywcm/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/szJBNMR/Harekrsna-tv-image.jpg" group-title="┃OTT SPECIAL┃", HARE KRISHNA 
+https://airtelapp.shemaroo.com/harekrsnatv/smil:harekrsnatvadp.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TMPp53Nj/MV5-BMDky-Mj-Jj-ZGUt-Nz-Q3-Zi00-MGZm-LWJk-Yz-Yt-YTJm-Nj-Yx-Nj-E3-MGUz-Xk-Ey-Xk-Fqc-Gc-V1-FMjpg-UX100.jpg" group-title="┃OTT SPECIAL┃",JUST FOR LAUGHS GAGS
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=1764235266&AV_PUBLISHERID=669e9bb2aaf074dd9e077ec4&AVS_SSAIID=6731bd76f3dc89853b0711b8&AV_CHANNELID=6731bd30ae2dfd24ab053558&AV_WIDTH=1920&AV_HEIGHT=1080&AV_APPNAME=STIRR&AV_APPSTOREURL=&AV_APPPKGNAME=web.ktest2.vodlix&AV_IDFA=5e17ec68-c63f-4731-9ab3-a305b2805541&AV_IFA_TYPE=sessionid&AV_LATITUDE=39.0438&AV_LONGITUDE=-77.4874&AV_CONTENT_URL=&AV_CONTENT_TITLE=Just+for+Laughs&AV_CONTENT_EPISODE=&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_KEYWORDS=comedy%2Chumor%2Csketch%2Cparody%2Csatire%2Cstand-up%2Cimprov%2Cfunny%2Claughs%2Cjokes%2Cgags%2Cpranks%2Cchallenges%2Centertainment%2Camericas+funniest+home+videos&AV_CONTENT_ID=5735&AV_CONTENT_GENRE=Comedy+Live%2CEntertainment+Live%2C&vx_session=i8pe5jenqmn8p1u5eopita1vls&AV_NONCE=[vx_nonce]&AV_CONTENT_CAT=IAB1-4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pvbxcytt/how-to-download-zee5-video.webp" group-title="┃ZEE5 OTT┃" tvg-name="Zing" tvg-language="Unknown",Zing ᴴᴰ
+http://pro.auramax.name:80/play/live.php?mac=00:1A:79:85:CB:73&stream=440257&extension=ts&play_token=NgHEPx3kH7
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pvbxcytt/how-to-download-zee5-video.webp" group-title="┃ZEE5 OTT┃" tvg-name="Zee Tv" tvg-language="Unknown",Zee Tv ˢᴰ
+http://pro.auramax.name:80/play/live.php?mac=00:1A:79:85:CB:73&stream=440250&extension=ts&play_token=4EpMfaPZwo
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pvbxcytt/how-to-download-zee5-video.webp" group-title="┃ZEE5 OTT┃" tvg-name="Zee Tv Hd" tvg-language="Unknown",Zee Tv ᴴᴰ
+http://pro.auramax.name:80/play/live.php?mac=00:1A:79:85:CB:73&stream=440249&extension=ts&play_token=lCzJeqRqK5
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pvbxcytt/how-to-download-zee5-video.webp" group-title="┃ZEE5 OTT┃" tvg-name="Zee Cinema" tvg-language="Unknown",Zee Cinema ˢᴰ
+http://pro.auramax.name:80/play/live.php?mac=00:1A:79:85:CB:73&stream=440254&extension=ts&play_token=EzGXIhce4L
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pvbxcytt/how-to-download-zee5-video.webp" group-title="┃ZEE5 OTT┃" tvg-name="Zee Cinema Hd" tvg-language="Unknown",Zee Cinema ᴴᴰ
+http://pro.auramax.name:80/play/live.php?mac=00:1A:79:85:CB:73&stream=440253&extension=ts&play_token=WPKP5I1fU4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pvbxcytt/how-to-download-zee5-video.webp" group-title="┃ZEE5 OTT┃" tvg-name="Zee Anmol Cinema" tvg-language="Unknown",Zee Anmol Cinema ᴴᴰ
+http://pro.auramax.name:80/play/live.php?mac=00:1A:79:85:CB:73&stream=440309&extension=ts&play_token=IJpcGTAChY
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pvbxcytt/how-to-download-zee5-video.webp" group-title="┃ZEE5 OTT┃" tvg-name="Zee Bollywood" tvg-language="Unknown",Zee Bollywood ᴴᴰ
+http://pro.auramax.name:80/play/live.php?mac=00:1A:79:85:CB:73&stream=440255&extension=ts&play_token=d8k66CLPRE
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pvbxcytt/how-to-download-zee5-video.webp" group-title="┃ZEE5 OTT┃" tvg-name="Zee Action" tvg-language="Unknown",Zee Action ᴴᴰ
+http://pro.auramax.name:80/play/live.php?mac=00:1A:79:85:CB:73&stream=440248&extension=ts&play_token=bVxtfe5lK6
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pvbxcytt/how-to-download-zee5-video.webp" group-title="┃ZEE5 OTT┃" tvg-name="Zee Classic" tvg-language="Unknown",Zee Classic ᴴᴰ
+http://pro.auramax.name:80/play/live.php?mac=00:1A:79:85:CB:73&stream=440256&extension=ts&play_token=GBkkRazDhn
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pvbxcytt/how-to-download-zee5-video.webp" group-title="┃ZEE5 OTT┃" tvg-name="Zee Punjabi" tvg-language="Punjabi",Zee Punjabi ᴴᴰ
+http://pro.auramax.name:80/play/live.php?mac=00:1A:79:85:CB:73&stream=1890362&extension=ts&play_token=CfNxCkAwLK
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pvbxcytt/how-to-download-zee5-video.webp" group-title="┃ZEE5 OTT┃" tvg-name="Zee Marathi" tvg-language="Unknown",Zee Marathi ˢᴰ
+http://pro.auramax.name:80/play/live.php?mac=00:1A:79:85:CB:73&stream=443013&extension=ts&play_token=DR44MXYbjg
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pvbxcytt/how-to-download-zee5-video.webp" group-title="┃ZEE5 OTT┃" tvg-name="Zee Marathi Hd" tvg-language="Unknown",Zee Marathi ᴴᴰ
+http://pro.auramax.name:80/play/live.php?mac=00:1A:79:85:CB:73&stream=443014&extension=ts&play_token=Z68Dm4VGm3
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pvbxcytt/how-to-download-zee5-video.webp" group-title="┃ZEE5 OTT┃" tvg-name="Zee Yuva" tvg-language="Unknown",Zee Yuva ᴴᴰ
+http://pro.auramax.name:80/play/live.php?mac=00:1A:79:85:CB:73&stream=440345&extension=ts&play_token=9xGU9LmiNE
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pvbxcytt/how-to-download-zee5-video.webp" group-title="┃ZEE5 OTT┃" tvg-name="Zee Tamil" tvg-language="Tamil",Zee Tamil ˢᴰ
+http://pro.auramax.name:80/play/live.php?mac=00:1A:79:85:CB:73&stream=440767&extension=ts&play_token=7gRscAsgxI
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pvbxcytt/how-to-download-zee5-video.webp" group-title="┃ZEE5 OTT┃" tvg-name="Zee Tamil Hd" tvg-language="Tamil",Zee Tamil ᴴᴰ
+http://pro.auramax.name:80/play/live.php?mac=00:1A:79:85:CB:73&stream=440768&extension=ts&play_token=y0tgVLWEZt
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pvbxcytt/how-to-download-zee5-video.webp" group-title="┃ZEE5 OTT┃" tvg-name="Zee Telugu" tvg-language="Telugu",Zee Telugu ˢᴰ
+http://pro.auramax.name:80/play/live.php?mac=00:1A:79:85:CB:73&stream=441013&extension=ts&play_token=fQTtPnNCay
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pvbxcytt/how-to-download-zee5-video.webp" group-title="┃ZEE5 OTT┃" tvg-name="Zee Telugu Hd" tvg-language="Telugu",Zee Telugu ᴴᴰ
+http://pro.auramax.name:80/play/live.php?mac=00:1A:79:85:CB:73&stream=441012&extension=ts&play_token=VANuvXrTiI
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pvbxcytt/how-to-download-zee5-video.webp" group-title="┃ZEE5 OTT┃" tvg-name="Zee Kannada Hd" tvg-language="Unknown",Zee Kannada ᴴᴰ
+http://pro.auramax.name:80/play/live.php?mac=00:1A:79:85:CB:73&stream=441250&extension=ts&play_token=xepWkUW7Yy
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pvbxcytt/how-to-download-zee5-video.webp" group-title="┃ZEE5 OTT┃" tvg-name="Zee Keralam Hd" tvg-language="Unknown",Zee Keralam ᴴᴰ
+http://pro.auramax.name:80/play/live.php?mac=00:1A:79:85:CB:73&stream=443068&extension=ts&play_token=F8bQRce9IY
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pvbxcytt/how-to-download-zee5-video.webp" group-title="┃ZEE5 OTT┃" tvg-name="Zee Bangla" tvg-language="Bangla",Zee Bangla ˢᴰ
+http://pro.auramax.name:80/play/live.php?mac=00:1A:79:85:CB:73&stream=1667672&extension=ts&play_token=8zSMfa9CAE
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pvbxcytt/how-to-download-zee5-video.webp" group-title="┃ZEE5 OTT┃" tvg-name="Zee Bangla Hd" tvg-language="Bangla",Zee Bangla ᴴᴰ
+http://pro.auramax.name:80/play/live.php?mac=00:1A:79:85:CB:73&stream=1667679&extension=ts&play_token=95wpsbXwjU
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pvbxcytt/how-to-download-zee5-video.webp" group-title="┃ZEE5 OTT┃" tvg-name="Zee Bangla Cinema" tvg-language="Bangla",Zee Bangla Cinema ᴴᴰ
+http://pro.auramax.name:80/play/live.php?mac=00:1A:79:85:CB:73&stream=441087&extension=ts&play_token=E5lf0GIRVn
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pvbxcytt/how-to-download-zee5-video.webp" group-title="┃ZEE5 OTT┃" tvg-name="Zee Talkies Hd" tvg-language="Unknown",Zee Talkies ᴴᴰ
+http://pro.auramax.name:80/play/live.php?mac=00:1A:79:85:CB:73&stream=443015&extension=ts&play_token=SJWEWm8Ahj
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pvbxcytt/how-to-download-zee5-video.webp" group-title="┃ZEE5 OTT┃" tvg-name="Zee Cinemalu Hd" tvg-language="Unknown",Zee Cinemalu ᴴᴰ
+http://pro.auramax.name:80/play/live.php?mac=00:1A:79:85:CB:73&stream=441015&extension=ts&play_token=LfjTCJlYow
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pvbxcytt/how-to-download-zee5-video.webp" group-title="┃ZEE5 OTT┃" tvg-name="Zee Thirai" tvg-language="Unknown",Zee Thirai ᴴᴰ
+http://pro.auramax.name:80/play/live.php?mac=00:1A:79:85:CB:73&stream=440765&extension=ts&play_token=V97DlrV6mg

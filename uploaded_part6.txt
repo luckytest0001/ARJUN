@@ -1,0 +1,127 @@
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1Y0TRw7c/Black-Bold-Initial-AI-Business-Logo-20241014-161806-0000.png" group-title="┃LANGUAGE INTRO┃",NATURE & ADVENTURE
+https://hr02-ynr.github.io/yr/13.ts 
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mFSRLLk0/images-20.jpg" group-title="┃NATURE & ADVENTURE┃",DISCOVERY HINDI ᴴᴰ
+http://tv.cloudcdn.me:80/live.ts?channelId=164&uid=15301&deviceMac=00:1A:79:31:34:0E
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nNFPVQ6V/Animal-Planet-Vertical-One-Line-Large-RGB-002.jpg" group-title="┃NATURE & ADVENTURE┃",ANIMAL PLANET HINDI ᴴᴰ
+http://tv.cloudcdn.me:80/live.ts?channelId=151&uid=15301&deviceMac=00:1A:79:31:34:0E
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Fb5DvPfp/images-10.png" group-title="┃NATURE & ADVENTURE┃",NAT GEO WILD HINDI ᴴᴰ
+http://tv.cloudcdn.me:80/live.ts?channelId=177&uid=15301&deviceMac=00:1A:79:31:34:0E
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TMR1Q8xV/images-22.jpg" group-title="┃NATURE & ADVENTURE┃",SONY BBC EARTH HINDI ᴴᴰ
+http://tv.cloudcdn.me:80/live.ts?channelId=40478&uid=15301&deviceMac=00:1A:79:31:34:0E
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d4t5P5XG/images-23.jpg" group-title="┃NATURE & ADVENTURE┃",NATIONAL GEOGRAPHIC HINDI ᴴᴰ
+http://tv.cloudcdn.me:80/live.ts?channelId=176&uid=15301&deviceMac=00:1A:79:31:34:0E
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600009NL_20240813T052445SQUARE.png" group-title="┃NATURE & ADVENTURE┃",HISTORY TV18 ᴴᴰ
+https://amg01448-amg01448c15-samsung-in-3494.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
+ 
+#EXTINF:-1 channel-id="samsung-IN1600009NL" tvg-id="IN1600009NL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600009NL_20240813T052445SQUARE.png" group-title="┃NATURE & ADVENTURE┃" tvg-chno="1003",HISTORY TV18 4K
+https://jmp2.uk/stvp-IN1600009NL 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/93mr47cn/images-25.jpg" group-title="┃NATURE & ADVENTURE┃",TRAVEL XP HINDI ᴴᴰ
+https://jmp2.uk/stvp-IN300000210
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXVxkt9C/images-13.png" group-title="┃NATURE & ADVENTURE┃", ᴴᴰ TRAVEL
+https://jmp2.uk/stvp-IN400053KM
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VpS1sYpP/images-27.jpg" group-title="┃NATURE & ADVENTURE┃",BBC Earth ᴴᴰ
+https://wildearth-plex.amagi.tv/master.m3u8
+
+#EXTINF:-1 tvg-id="RealWild.us" tvg-logo="https://i.imgur.com/T9HHmAO.png" group-title="┃NATURE & ADVENTURE┃",Real Wild
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RealWild.us" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900015D3_20230712T021136SQUARE.png_20230712021136.png" group-title="┃NATURE & ADVENTURE┃",ADVENTURE Earth ᴴᴰ
+https://jmp2.uk/stvp-GBBC900015D3
+
+#EXTINF:-1 group-title="┃NATURE & ADVENTURE┃" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB5000002PL_20240611T062022SQUARE.png", Wild PLANET
+https://jmp2.uk/stvp-GBBB5000002PL
+
+#EXTINF:-1 group-title="┃NATURE & ADVENTURE┃" tvg-logo="https://i.imgur.com/uZbHvkU.png", LOVE NATURE
+https://jmp2.uk/stvp-USBA3400003IP
+
+#EXTINF:-1 group-title="┃NATURE & ADVENTURE┃" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD500001F5_20240131T031216SQUARE.png_20240131031217.png",Love the Planet
+https://jmp2.uk/stvp-GBBD500001F5
+
+#EXTINF:-1 channel-id="samsung-GBBD3200001E2"  tvg-id="GBBD3200001E2" tvg-chno="4271" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3200001E2_20241106T143044SQUARE.png"  group-title="┃NATURE & ADVENTURE┃",  Earth Touch
+https://jmp2.uk/stvp-GBBD3200001E2
+
+#EXTINF:-1 tvg-id="64240b7e283aa40008f79f84" tvg-name="Naturescape" tvg-logo="https://i.ibb.co/V3pq0Rk/images-7.jpg" group-title="┃NATURE & ADVENTURE┃", Naturescape
+https://stitcher.pluto.tv/stitch/hls/channel/64240b7e283aa40008f79f84/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e76c83d7-af83-11ef-8461-3606f23ae58e 
+
+#EXTINF:-1 tvg-id="WeatherSpyIndia.in" tvg-logo="https://i.ibb.co/y4wfJwN/images-8.jpg" group-title="┃NATURE & ADVENTURE┃", WeatherSpy India
+https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mVPf2RLh/unnamed.jpg" group-title="┃HINDI ENTERTAINMENT┃",FOOD Network ᴴᴰ HINDI
+https://amg00416-amg00416c10-samsung-in-4883.playouts.now.amagi.tv/playlist/amg00416-travelxp-foodxp-samsungin/playlist.m3u8
+
+#EXTINF:-1 channel-id="samsung-IN460000313" tvg-id="IN460000313" tvg-country="in" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460000313_20250205T004601SQUARE.png" group-title="┃HINDI ENTERTAINMENT┃", Foodie Hub
+https://jmp2.uk/stvp-IN460000313 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F42S2QGr/images-4.jpg" group-title="┃HINDI ENTERTAINMENT┃",Food XP
+https://jmp2.uk/stvp-IN3000003QJ 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9mm5fJ2H/fashion-tv-logo-3119-A6-D926-seeklogo-com.png" group-title="┃ENGLISH┃" , Fashion TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AllWeddingsWEtv.us" tvg-logo="https://i.imgur.com/OjLCew5.png" group-title="┃NATURE & ADVENTURE┃",All Weddings WE tv
+https://amc-allweddings-1-us.xumo.wurl.tv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hxGjp2jN/Black-Bold-Initial-AI-Business-Logo-20241014-161834-0000.png" group-title="┃LANGUAGE INTRO┃",SPORTS 
+https://hr02-ynr.github.io/yr/14.ts 
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/STAR-SPORTS-1-HINDI-HD.jpg" group-title="┃SPORTS┃",STAR SPORTS 1 HINDI
+http://delta.cloudf-nettv.xyz:80/mehj9l0sub/qh1u5prkk0/363956
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Nn9s6HvH/images-34.jpg", group-title="┃SPORTS┃" ,DD SPORTS 2.0
+https://wvworker.cloudflarechannels.workers.dev/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/dd-sports/index.m3u8?h=d3eyhgoylams0m
+ 
+#EXTINF:-1 tvg-language="English" tvg-logo="https://i.ibb.co/qL0fC64M/Sony-Pictures-Sports-Network-to-broadcast-WWE-Royal-Rumble-2021-on-February-1-2021.jpg" group-title="┃SPORTS┃" , SONY Sports Ten 1
+http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=15301&deviceMac=00:1A:79:31:34:0E
+
+#EXTINF:-1 tvg-language="English" tvg-logo="https://i.ibb.co/Wpg3cXM4/Sony-TEN2-Masthead-Logo.png" group-title="┃SPORTS┃" , SONY Sports Ten 2
+http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=15301&deviceMac=00:1A:79:31:34:0E
+
+#EXTINF:-1 tvg-language="Hindi" tvg-logo="https://i.ibb.co/Jw6twYHz/sony-ten-3.png" group-title="┃SPORTS┃" , SONY Sports Ten 3
+http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=15301&deviceMac=00:1A:79:31:34:0E
+
+#EXTINF:-1 tvg-language="Hindi" tvg-logo="https://i.ibb.co/pjDqvJn9/sony-ten4-png.jpg" group-title="┃SPORTS┃" , SONY Sports Ten 4
+http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=15301&deviceMac=00:1A:79:31:34:0E
+
+#EXTINF:-1 tvg-language="English" tvg-logo="https://i.ibb.co/0pxzp8kj/unnamed.png" group-title="┃SPORTS┃" , SONY Sports Ten 5
+http://tv.cloudcdn.me:80/live.ts?channelId=105350&uid=15301&deviceMac=00:1A:79:31:34:0E
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b5RR7xpz/images-1.png" group-title="┃SPORTS┃",Willow SPORTS ᴴᴰ
+https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8?channel_name=Willow%20TV&content_genre=Sport%2CCricket&ic=IAB17%2CIAB17-9&provider=FreeLiveSports&us_privacy=%5BUS_PRIVACY%5D&gdpr=%5BGDPR%5D&gdpr_consent=%5BCONSENT_STRING%5D&coppa=0&content_livestream=1&p=sportstribal&url=%5BREF%5D&lmt=%5BLAT%5D&did=%5BDEVICE_ID%5D
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZRQMQ2Yd/images-42.jpg" group-title="┃SPORTS┃",GOLD CRICKET
+https://cc-bpss9asqfihqh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bpss9asqfihqh/scheduler/scheduleMaster/453.m3u8
+
+#EXTINF:-1 channel-id="samsung-IN270000230"  tvg-id="IN270000230" tvg-chno="1212" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN270000230_20240731T012443SQUARE.png"  group-title="┃SPORTS┃",  FIFA+
+https://jmp2.uk/stvp-IN270000230
+
+#EXTINF:-1 channel-id="samsung-US2700004DX"  tvg-id="US2700004DX" tvg-chno="3822" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2700004DX_20240826T235608SQUARE.png"  group-title="┃SPORTS┃",  BeIN Sports XTRA ñ 
+https://jmp2.uk/stvp-US2700004DX
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5XGf4pgq/images-43.jpg" group-title="┃SPORTS┃",Bein Sports Xtra
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-tcl/playlist.m3u8
+
+#EXTINF:-1 channel-id="samsung-GBBA33000529G"  tvg-id="GBBA33000529G" tvg-chno="4522" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA33000529G_20220323T071122SQUARE.png_20220323071125.png"  group-title="┃SPORTS┃", Tennis Channel International
+https://jmp2.uk/stvp-GBBA33000529G
+
+#EXTINF:-1 channel-id="samsung-GBBD2300003IK"  tvg-id="GBBD2300003IK" tvg-chno="4513" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300003IK_20241106T143030SQUARE.png"  group-title="┃SPORTS┃",  Red Bull TV
+https://jmp2.uk/stvp-GBBD2300003IK
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MxXdTprH/d-Qu79-Bb8-400x400.webp" group-title="┃SPORTS┃",Womens Sports Network
+https://womensnetwork-lg.amagi.tv/playlist.m3u8 
+
+#EXTINF:-1 tvg-id="62ea4dadce395f0007086df2" tvg-name="TNA Wrestling" tvg-logo="https://images.pluto.tv/channels/62ea4dadce395f0007086df2/colorLogoPNG.png" group-title="┃SPORTS┃", TNA Wrestling
+https://stitcher.pluto.tv/stitch/hls/channel/62ea4dadce395f0007086df2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e76c83d7-af83-11ef-8461-3606f23ae58e 
+ 
+#EXTINF:-1 channel-id="samsung-US700005ID"  tvg-id="US700005ID" tvg-chno="2904" tvg-logo="https://i.ibb.co/k2YSQfFZ/images-20.png" group-title="┃SPORTS┃",WWE SUPERSTAR CENTRAL
+https://jmp2.uk/stvp-US700005ID 

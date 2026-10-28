@@ -1,0 +1,129 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}
+
+body {
+  background-color: #303030;
+  color: #ffffff;
+  margin: 0;
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* ==========================================================================
+   ANDROID TV D-PAD FOCUS MANAGEMENT & ZERO-LAG REMOTE PERFORMANCE
+   ========================================================================== */
+
+/* Remove default browser outlines on TV */
+*:focus {
+  outline: none;
+}
+
+/* Fast scrolling without animation lag on TV */
+.tv-scroll-container,
+[data-tv-scroll="true"] {
+  scroll-behavior: auto !important;
+  overscroll-behavior: contain;
+}
+
+/* Hardware accelerated focusable item base */
+.tv-focusable {
+  outline: none !important;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  transform: translateZ(0);
+  transition: transform 70ms cubic-bezier(0, 0, 0.2, 1), box-shadow 70ms cubic-bezier(0, 0, 0.2, 1), background-color 70ms ease;
+  will-change: transform, box-shadow;
+}
+
+/* High-Visibility TV Channel Card Focus Indicator (Screen 10ft TV distance) */
+.tv-channel-card:focus,
+.tv-channel-card:focus-visible {
+  outline: none !important;
+  transform: scale(1.06) translateZ(0) !important;
+  background-color: rgba(91, 170, 245, 0.28) !important;
+  box-shadow: 0 0 0 3px #5BAAF5, 0 8px 24px rgba(0, 0, 0, 0.8), 0 0 20px rgba(91, 170, 245, 0.5) !important;
+  z-index: 30 !important;
+  position: relative;
+}
+
+.tv-channel-card:focus span,
+.tv-channel-card:focus-visible span {
+  color: #FFFFFF !important;
+  font-weight: 500 !important;
+}
+
+/* High-Visibility TV Category Sidebar Focus Indicator */
+.tv-category-item:focus,
+.tv-category-item:focus-visible {
+  outline: none !important;
+  transform: scale(1.025) translateZ(0) !important;
+  background-color: #2E8BC0 !important;
+  box-shadow: 0 0 0 3px #FFFFFF, 0 6px 18px rgba(0, 0, 0, 0.7) !important;
+  z-index: 25 !important;
+  position: relative;
+}
+
+/* High-Visibility TV Header & Tab Navigation Button Focus Indicator */
+.tv-nav-btn:focus,
+.tv-nav-btn:focus-visible {
+  outline: none !important;
+  box-shadow: inset 0 0 0 2.5px #5BAAF5, 0 0 14px rgba(91, 170, 245, 0.6) !important;
+  background-color: rgba(255, 255, 255, 0.22) !important;
+  z-index: 20;
+}
+
+/* High-Visibility TV Playlist Item Focus */
+.tv-playlist-item:focus,
+.tv-playlist-item:focus-visible,
+.tv-playlist-item.tv-active-focus {
+  outline: none !important;
+  background-color: rgba(91, 170, 245, 0.22) !important;
+  box-shadow: inset 0 0 0 2.5px #5BAAF5, 0 0 16px rgba(91, 170, 245, 0.4) !important;
+  z-index: 15;
+}
+
+/* Universal Android TV Active Focus Indicator for 10-ft Remote Control */
+.tv-active-focus {
+  outline: none !important;
+  box-shadow: 0 0 0 3px #5BAAF5, 0 0 16px rgba(91, 170, 245, 0.6) !important;
+  position: relative;
+  z-index: 40 !important;
+}
+
+/* TV Drawer Item Focus Indicator */
+[data-tv="drawer-item"]:focus,
+[data-tv="drawer-item"]:focus-visible,
+[data-tv="drawer-item"].tv-active-focus {
+  outline: none !important;
+  background-color: rgba(91, 170, 245, 0.25) !important;
+  box-shadow: inset 0 0 0 2.5px #5BAAF5, 0 0 14px rgba(91, 170, 245, 0.4) !important;
+  z-index: 25 !important;
+}
+
+/* TV Menu Item Focus Indicator */
+[data-tv="menu-item"]:focus,
+[data-tv="menu-item"]:focus-visible,
+[data-tv="menu-item"].tv-active-focus {
+  outline: none !important;
+  background-color: #3897D3 !important;
+  color: #FFFFFF !important;
+  box-shadow: 0 0 0 2.5px #FFFFFF, 0 4px 12px rgba(0, 0, 0, 0.7) !important;
+  z-index: 30 !important;
+}
+
+/* Generic Focusable Elements on Android TV (Buttons, Inputs, Modals) */
+button:focus-visible,
+[tabindex="0"]:focus-visible,
+[data-tv]:focus-visible {
+  outline: none !important;
+  box-shadow: 0 0 0 2.5px #5BAAF5, 0 0 14px rgba(91, 170, 245, 0.5) !important;
+}
+

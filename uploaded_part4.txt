@@ -1,0 +1,240 @@
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/K1r2npR/Black-Bold-Initial-AI-Business-Logo-20241014-161135-0000.png" group-title="┃LANGUAGE INTRO┃",HINDI MUSIC
+https://hr02-ynr.github.io/yr/6.ts 
+
+#EXTINF:-1 tvg-id="" tvg-name="ZOOM" tvg-logo="https://i.ibb.co/dr16d02/Picsart-23-06-30-23-39-14-937.png" group-title="┃HINDI MUSIC┃", ZOOM ᴴᴰ
+https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+ 
+#EXTINF: -1 tvg-logo="https://i.ibb.co/cXrXrt8w/images-1.png" group-title="┃HINDI MUSIC┃", YRF Music ᴴᴰ
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mV4Rn35T/images.jpg" group-title="┃HARYANVI┃", Haryanvi Hits ᴴᴰ
+https://yuppnimresmum.akamaized.net/28072023/smil:haryanvihits.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kx6LfV7H/images.jpg" group-title="┃HARYANVI┃", ANDY Haryana
+https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mCcfx6jW/images-2.png" group-title="┃HARYANVI┃",DESI TASHAN
+https://cloudcdn.in/livetv/DesiTashan/video.m3u8
+ 
+#EXTINF:-1 group-title="┃HARYANVI┃" tvg-logo="https://i.ibb.co/bgnrqPjd/channels4-profile-1.jpg",Saga Music Haryanvi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg00223-unisys-amg00223c5-lg-in-2048.playouts.now.amagi.tv/playlist/amg00223-sevencolorsbroadcastingprivatelimited-sagamusic-lgin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k2Q78QWj/images-2.jpg" group-title="┃HINDI MUSIC┃", Music India
+https://jmp2.uk/stvp-INBD4700015M0
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Eps Music.jpg"  group-title="┃HINDI MUSIC┃", Eps Music
+https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXDTFw4G/images-4.jpg" group-title="┃HINDI MUSIC┃", Hindi Hits ᴴᴰ
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4w95cjJ/images-3.png" group-title="┃PUNJABI MUSIC┃",Saga Music
+https://amg00223-unisys-amg00223c5-lg-in-2048.playouts.now.amagi.tv/playlist/amg00223-sevencolorsbroadcastingprivatelimited-sagamusic-lgin/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4w95cjJ/images-3.png" group-title="┃PUNJABI MUSIC┃",Saga Music ᴴᴰ
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/r274v8rV/channels4-profile-2.jpg" group-title="┃HINDI MUSIC┃", Asia Music
+https://amchls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Shemaroo Filmigaane" tvg-logo="https://i.ibb.co/1Gw3NFgH/channels4-profile-3.jpg" group-title="┃HINDI MUSIC┃",Shemaroo Filmigaane
+https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P6m5DTW/20240803-105303.png" group-title="┃HINDI MUSIC┃", JOO MUSIC
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-name="UCN Pub"tvg-logo="https://i.ibb.co/ssgsKmC/images-2.png"group-title="┃HINDI MUSIC┃", Pub MUSIC TV
+https://ucncable.livebox.co.in/UCNLIVE2hls/live.m3u8
+
+#EXTINF:-1 tvg-name="UCN Hollywood"tvg-logo="https://i.ibb.co/r5ZgrwK/17Ok55p.jpg"group-title="┃HINDI MUSIC┃",LAMHE MUSIC
+https://ucncable.livebox.co.in/UCNLIVE7hls/live.m3u8
+
+#EXTINF:-1 tvg-id="songdew" tvg-name="Songdew" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/songdew-tv-black.png" tvg-language="Hindi" group-title="┃HINDI MUSIC┃",SONGDEW TV 
+https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Hitz Entertanment.jpg" group-title="┃HINDI MUSIC┃", Hitz Entertanment
+https://amigofx.com:1936/hitzentertainment/hitzentertainment/chunklist_w1307666417.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kx6K32vv/Black-Bold-Initial-AI-Business-Logo-20241014-161532-0000.png" group-title="┃LANGUAGE INTRO┃",PUNJABI MUSIC
+https://hr02-ynr.github.io/yr/7.ts
+ 
+#EXTINF:-1 tvg-id="" tvg-name="Only Music" tvg-logo="https://qqcdnpictest.mxplay.com/pic/2952.DistroTv.in/en/1x1/208x208/test_pic1688061731041.jpg" group-title="┃HINDI MUSIC┃",Only Music 
+https://livestream.unlimitedcdn.com/onlymusic/tracks-v1a1/mono.m3u8
+ 
+#EXTINF:0 tvg-id="9XTashan.in" tvg-logo="https://i.ibb.co/1JfBgPbG/images-1.jpg" group-title="┃PUNJABI MUSIC┃",9X Tashan ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg01281-amg01281c2-amgplt0173.playout.now3.amagi.tv/playlist/amg01281-amg01281c2-amgplt0173/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/99j8LD4J/images-4.png" group-title="┃PUNJABI MUSIC┃",7X PUNJABI
+https://stream.e2is.in/hls/7xMusic.m3u8 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/VISION-BEATS.jpg" group-title="┃PUNJABI MUSIC┃", Vision Beats
+http://a-edge.bliscdn.com/Visionbeats/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/PURE PUNJABI.jpg" group-title="┃PUNJABI MUSIC┃",PURE PUNJABI
+http://livestream.unlimitedcdn.com/agm-pp/pure-punjabi/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/GLOBLE DESI.jpg" group-title="┃PUNJABI MUSIC┃",GLOBEL DESI
+https://live.ottlive.co.in/globaldesi/globaldesi/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/SADDA TV.jpg" group-title="┃PUNJABI MUSIC┃",SADDA TV
+http://livestream.unlimitedcdn.com/agm/sada-TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="GodStandsTV.pk@Punjabi" tvg-logo="https://i.imgur.com/EO6cYUI.png" group-title="┃PUNJABI MUSIC┃",God Stands TV Punjabi
+https://online.godstands.tv:5443/WebRTCApp/streams/PunjabiStreaming.m3u8
+
+#EXTINF:-1 tvg-id="GTCPunjabi.in@SD" tvg-logo="https://media.thegtcnetwork.com/uploads/gtc-pujabin-s.jpg" group-title="┃PUNJABI MUSIC┃",GTC Punjabi
+https://gtc-yupp.vgcdn.net/vglive-sk-254807/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Punjabi_Hits.jpg" group-title="┃PUNJABI MUSIC┃", Punjabi Hits
+https://stream.ottlive.co.in/punjabihits/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PZHg1nXB/sddefault.jpg" group-title="┃PUNJABI MUSIC┃",Jattvibe TV
+https://live20.bozztv.com/giatv/giatv-jattvibe/jattvibe/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.watnodur.com/media/images/logo.png" group-title="┃PUNJABI MUSIC┃",Watno Dur
+http://cdn12.henico.net:8080/live/wtdur/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Steelbird Music " tvg-logo="https://d3jnkp3lrs2hd5.cloudfront.net/images/100x100/cb8423a0-47f3-4ed4-b7a1-8bf5d0405160.jpg" group-title="┃PUNJABI MUSIC┃",Steelbird Music 
+https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
+
+#EXTINF:-1 tvg-id="PTCMusic.in" tvg-logo="https://i.imgur.com/8PHk66Q.png" group-title="┃PUNJABI MUSIC┃",PTC Music 
+https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81FTDBItk1L.png" group-title="┃PUNJABI MUSIC┃",Balle Balle 
+https://mcncdndigital.com/balleballetv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81FTDBItk1L.png" group-title="┃PUNJABI MUSIC┃",Balle Balle ᴴᴰ
+https://amg01448-samsungin-balleballe-samsungin-ad-xa.amagi.tv/playlist/amg01448-samsungin-balleballe-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yFMqSrV7/images-7.jpg" group-title="┃PUNJABI MUSIC┃",DESI CHANNEL
+https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/93wnTVkJ/Black-Bold-Initial-AI-Business-Logo-20241014-161546-0000.png" group-title="┃LANGUAGE INTRO┃",PUNJABI MOVIES
+https://hr02-ynr.github.io/yr/8.ts
+ 
+#EXTINF: -1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1700002C8_20240612T015015SQUARE.png" group-title="┃PUNJABI MOVIES┃", Pitaara Tv ᴴᴰ
+https://jmp2.uk/stvp-IN1700002C8
+
+#EXTINF:-1 channel-id="samsung-IN1600001OG" tvg-id="IN1600001OG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600001OG_20240612T015018SQUARE.png" group-title="┃PUNJABI MOVIES┃" tvg-chno="1125",Pitaara Comedy
+https://jmp2.uk/stvp-IN1600001OG
+
+#EXTINF:-1 tvg-id="PTCPunjabiGold.in" tvg-logo="https://i.imgur.com/g88pV3L.png" group-title="┃PUNJABI MOVIES┃",PTC Punjabi Gold 
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/r2MT4F4v/images-9.jpg" group-title="┃PUNJABI MOVIES┃",TABBAR HITS
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e11b0319-52e8-4190-ab03-3931cc68eac9/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NP3NtLQ/images-8.png" group-title="┃PUNJABI MOVIES┃",Asia tv 
+https://cdn12.henico.net:8443/live/asiatv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/D5 Punjabi.jpg" group-title="┃PUNJABI┃", D5 Punjabi
+https://d5.tv360.ca:3453/live/cd5live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9kkq0qcR/Black-Bold-Initial-AI-Business-Logo-20241014-161601-0000.png" group-title="┃LANGUAGE INTRO┃",PUNJABI
+https://hr02-ynr.github.io/yr/9.ts
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0jPMFK5p/Sanjha-TV.png" group-title="┃PUNJABI┃",SANJHA TV ᴴᴰ
+http://livestream.unlimitedcdn.com/sanjhatv/tracks-v1a1/mono.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gFHPqQ03/images-12.jpg" group-title="┃PUNJABI┃" ,Ghaint Punjab
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-ghaintpunjab-xiaomi/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4n6X2kjM/images-13.jpg" group-title="┃PUNJABI┃", Politics Punjab
+https://stream.imagetv.in/hls/politicspunjab/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YF5G7GdT/images-14.jpg" group-title="┃PUNJABI┃", Rangla Punjab TV
+http://playout.rptv.online/ranglapunjab/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nswx2Dhb/images-10.png" group-title="┃PUNJABI┃", YYc Tv
+http://cdn12.henico.net:8080/live/pravasipb/index.m3u8  
+ 
+#EXTINF:-1 tvg-logo="http://www.ptn24.com/wp-content/themes/streaminfo/images/logo.png" group-title="┃PUNJABI┃",PTN 24
+http://cdn.samtv.ca/ptv24/index.m3u8
+ 
+#EXTINF:-1 tvg-id="PTCPunjabi.in" tvg-logo="https://i.imgur.com/nbUMvaR.png" group-title="┃PUNJABI┃",PTC Punjabi 
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Hamdarad Tv 023.jpg" group-title="┃PUNJABI┃", Hamdarad Tv
+http://tv.hamdardtv.com/hamdard/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Live Kabaddi 024.jpg" group-title="┃PUNJABI┃", Kabaddi Live
+http://146.59.253.52:8080/Livekabaddi/tracks-v1a1/mono.m3u8
+ 
+#EXTINF:-1 tvg-id="KanshiTV.uk" tvg-logo="https://i.imgur.com/w6uXMrK.png" group-title="┃PUNJABI┃",Kanshi TV
+https://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="http://store-images.s-microsoft.com/image/apps.58328.13510798887967581.3c7aabe3-b3ad-46b3-926c-709b64597493.6f777419-5a42-46c6-a140-aa2fe416b561" group-title="┃PUNJABI┃",Prime Asia
+http://primeasia.dyndns.tv/Live_720p_Web/index.m3u8 
+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Darbar Sahib Live 013.jpg" group-title="┃PUNJABI BHAKTI┃", Darbar Sahib Live
+http://146.59.253.52:8080/sgpclive/video.m3u8
+
+#EXTINF:-1 tvg-id="5AABTV.ca" tvg-logo="https://i.imgur.com/jrGrfof.png" group-title="┃PUNJABI BHAKTI┃",5AAB TV
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PardesiTV.ca" tvg-logo="https://i.imgur.com/CwAdPpZ.jpg" group-title="┃PUNJABI BHAKTI┃",Pardesi TV
+http://stream.pardesitv.online/pardesi/index.m3u8
+
+#EXTINF:-1 tvg-id="SardariTV.ca" tvg-logo="https://i.imgur.com/AhbJjPL.jpg" group-title="┃PUNJABI BHAKTI┃",Sardari TV
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Guntas Radi & Tv.jpg" group-title="┃PUNJABI BHAKTI┃",Guntaas Radi & Tv
+http://cdn12.henico.net:8080/live/guntaas/index.m3u8
+
+#EXTINF:-1 tvg-id="SikhSpiritualCentreRexdale.ca" tvg-logo="https://i.imgur.com/YKXoIsr.png" group-title="┃PUNJABI BHAKTI┃",Sikh Spiritual Centre Rexdale
+https://cdn12.henico.net:8443/live/ssct/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/World Punjabi tv 028.jpg" group-title="┃PUNJABI BHAKTI┃", World Punjabi tv
+https://mcncdndigital.com/worldpunjabitv/tracks-v1/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-id="Toronto360TV.ca" tvg-logo="https://i.imgur.com/YJYdHKO.png" group-title="┃PUNJABI BHAKTI┃",Toronto 360 TV
+http://cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="┃PUNJABI BHAKTI┃" ,CHARDIKLA TIME TV 
+https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TqNFM79r/images-6.jpg" group-title="┃PUNJABI BHAKTI┃" ,CHARDIKLA TIME TV NORTH AMERICA
+https://chardikalanorthamerica.gigabitcdn.net/in-chardikala/chardikala-north-usa/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/FATEH_TV.jpg" group-title="┃PUNJABI BHAKTI┃", Fateh Tv
+https://ott.livelegitpro.in/fatehtv/fatehtv/tracks-v1/index.fmp4.m3u8 
+ 
+#EXTINF:-1 tvg-id="GaundaPunjabTV.ca" tvg-logo="https://i.imgur.com/ArRZRM3.png" group-title="┃PUNJABI BHAKTI┃",Gaunda Punjab TV
+http://cdn6.live247stream.com/gaundapunjab/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Chardikala Gurbani 016.jpg" group-title="┃PUNJABI BHAKTI┃", Chardikala Gurbani
+https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DfqLYRbX/images-15.jpg" group-title="┃PUNJABI BHAKTI┃", AMRIT GURBANI 24*7
+http://103.177.40.35/hls/stream0.m3u8 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Punjab-Mail-022.jpg" group-title="┃PUNJABI BHAKTI┃", Punjab Mail
+http://cdn12.henico.net:8080/live/punjabmailusa/index.m3u8
+
+#EXTINF:-1 tvg-id="GurSikhSabhaTV.ca" tvg-name=GURSIKH SABHA TV""  tvg-logo="https://i.ibb.co/HLB7RqhP/images-11.png group-title="┃PUNJABI BHAKTI┃", GURSIKH SABHA TV
+http://cdn12.henico.net:8080/live/gsctv/index.m3u8
+
+#EXTINF:-1 tvg-id="GDNSLudhiana.in" tvg-logo="https://i.ibb.co/Vc4V4bfD/images-12.png" group-title="┃PUNJABI BHAKTI┃",GDNS Ludhiana
+http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8 
+ 
+#EXTINF:-1 tvg-id="NamdhariTV.in" tvg-logo="https://i.imgur.com/NalsXTo.png" group-title="┃PUNJABI BHAKTI┃",Namdhari TV
+https://namdhari.tv/live/sbs1.m3u8
+ 
+#EXTINF:-1 tvg-id="abps121" group-title="┃PUNJABI BHAKTI┃" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/patnasahib.png",Patna Sahib
+https://cam.pc.cdn.bitgravity.com/cam/live/gurudwara_patnasahib/Alliance/live_darshan/playlist.m3u8?e=1801765799&h=128c55fd956bfe35a91d55fec005677b
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/932pPvKX/images.jpg" group-title="┃PUNJABI BHAKTI┃",Ardaas
+https://luckytest0001.github.io/aucky/6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4RFpCbvb/images-1.jpg" group-title="┃PUNJABI BHAKTI┃",Sukhmani Paath
+https://luckytest0001.github.io/aucky/3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v49Zdjdb/images-2.jpg" group-title="┃PUNJABI BHAKTI┃",Mool Mantar
+https://luckytest0001.github.io/aucky/4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xK6SfwCC/images-3.jpg" group-title="┃PUNJABI BHAKTI┃",Japji Sahib 
+https://luckytest0001.github.io/aucky/5.mp4

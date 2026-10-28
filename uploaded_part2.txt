@@ -1,0 +1,352 @@
+
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png" group-title="┃HINDI┃",ZEE TV ᴴᴰ
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/33667
+
+#EXTINF:-1 tvg-id="Colors" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/Colors_HD.png" group-title="┃HINDI┃",Colors ᴴᴰ
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/33472
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4gNKHsdC/Star-Plus-HD.png" group-title="┃HINDI┃", Star Plus ᴴᴰ
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/97524
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nNs5f2rZ/images-1.png" group-title="┃HINDI┃",COLORS RISHTEY ᴴᴰ
+http://delta.cloudf-nettv.xyz:80/mehj9l0sub/qh1u5prkk0/1015790
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Rpd Tv.jpg" group-title="┃HINDI┃",Rpd Tv
+http://stream.rpdc.online/rpdcpunjabi/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DfcNj1dK/images-3.jpg" group-title="┃HINDI┃",& TV ᴴᴰ
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/97521
+
+#EXTINF:-1 tvg-id="default" tvg-logo="https://i.ibb.co/DfcNj1dK/images-3.jpg" group-title="┃HINDI┃",&TV Movie Special
+https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8
+
+#EXTINF:-1 channel-id="samsung-GB3700007OZ"  tvg-id="GB3700007OZ" tvg-chno="4164" tvg-logo="https://i.ibb.co/DfcNj1dK/images-3.jpg"  group-title="┃HINDI┃",  &TV ꜰнD
+https://jmp2.uk/stvp-GB800002OP
+
+#EXTINF:-1 tvg-id="StarBharat.in" tvg-logo="https://i.ibb.co/cS9H71tT/star-bharath-hd-television10418.webp" group-logo="https://t3.ftcdn.net/jpg/06/12/34/84/360_F_612348476_k3i3brMUOo3N9Wk3yoceMHqZ8w4jpFqu.webp" group-title="┃HINDI┃",STAR BHARAT ᴴᴰ
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/132006
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JRwTT2gY/Black-Bold-Initial-AI-Business-Logo-20241014-161239-0000.png" group-title="┃LANGUAGE INTRO┃",HINDI MOVIES
+https://hr02-ynr.github.io/yr/3.ts
+
+#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Zee_Dil_Se.png" group-title="┃HINDI MOVIES┃",Zee Dil Se
+https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcomedynation.png" group-title="┃HINDI MOVIES┃",Zee Comedy Nation
+https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zhornights.png" group-title="┃HINDI MOVIES┃",Zee Horror Nights
+https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png" group-title="┃HINDI MOVIES┃",Zee South Flix
+https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcinecla.png" group-title="┃HINDI MOVIES┃",Zee Cine Classic
+https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/NH BOLLYWOOD.jpg" group-title="┃HINDI MOVIES┃",NH Bollywood
+https://nh-runntv-blygld.cdn.runn.tv/nhstdz/stream/blygld/manifest/2.m3u8
+
+#EXTINF:-1 group-title="┃HINDI MOVIES┃" tvg-logo="https://i.ibb.co/1YBRbKDX/channels4-profile.jpg" , NH Bolly Flix
+https://nh-runntv-blyflx.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8 
+
+#EXTINF:-1 group-title="┃HINDI MOVIES┃" tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/NH BOLLYWOOD.jpg" , NH BOLLYGOLD
+https://nh-runntv-blygld.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8 
+
+#EXTINF:-1 group-title="┃HINDI MOVIES┃" tvg-logo="https://i.ibb.co/twZ8gV27/images.jpg" ,NH Bollyraga
+https://nh-runntv-blyrag.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8 
+
+#EXTINF:-1 channel-id="IN4000600Q" tvg-id="IN4000600Q" tvg-chno="1007" tvg-name="Bollygold" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000600Q_20260528T040513SQUARE.png" group-title="┃HINDI MOVIES┃",Bollygold
+https://jmp2.uk/stvp-IN4000600Q
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BK4MqrZ2/images.jpg" group-title="┃HINDI MOVIES┃", Big Star Bollywood 
+https://amigofx.com:1936/bigstarmovie/bigstarmovie/chunklist_w466807892.m3u8
+
+#EXTINF:-1 group-title="┃HINDI MOVIES┃" tvg-logo="https://i.ibb.co/ynGJJCnr/images.png" , Pocket Film
+https://pktflm.cdn.runn.tv/runntv/stream/p_pktflm/playlist.m3u8 
+
+#EXTINF:-1 group-title="┃HINDI MOVIES┃" tvg-logo="https://i.ibb.co/Rk4QMDLM/unnamed.png" ,RUNN TV 
+https://supflm.cdn.runn.tv/runntv/stream/p_supjio/manifest/1.m3u8
+
+#EXTINF:-1 tvg-id="389" tvg-chno="389" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C389-1770751354.png" tvg-language="hi" group-title="┃HINDI MOVIES┃",RUN THRILLERS
+https://mumbai-edge.smartplaytv.in/runthrillers/index.m3u8
+
+#EXTINF:-1 tvg-id="default" group-title="┃HINDI MOVIES┃" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX2-New-Logo.png",Sony Max2 ˢᴰ
+http://delta.cloudf-nettv.xyz:80/mehj9l0sub/qh1u5prkk0/1015805
+
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX2-New-Logo.png" tvg-chno="7" group-title="┃HINDI MOVIES┃",Sony Max2
+http://delta.cloudf-nettv.xyz:80/mehj9l0sub/qh1u5prkk0/1015784
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures.png" group-logo="https://i.ibb.co/4SCr3mX/zee5-logo.webp" group-title"HINDI MOVIES",& Pictures ᴴᴰ
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/96672
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tp3FPxt9/images.jpg" group-title="┃HINDI MOVIES┃",& XPLOR ᴴᴰ 
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/33441
+
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-logo="https://i.ibb.co/whKqd8ZM/images.jpg" group-title="┃HINDI MOVIES┃",STAR GOLD ᴴᴰ 
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/96662
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8DqZtPr/Picsart-24-06-12-14-26-56-576.png" group-title="┃HINDI MOVIES┃", Star Gold 2 ˢᴰ
+http://delta.cloudf-nettv.xyz:80/mehj9l0sub/qh1u5prkk0/363985
+
+#EXTINF:-1 tvg-id="default" tvg-logo="https://i.ibb.co/8DqZtPr/Picsart-24-06-12-14-26-56-576.png" group-title="┃HINDI MOVIES┃", Star Gold 2 ᴴᴰ
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/33617
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KjVnVkdL/images-2.jpg" group-title="┃HINDI MOVIES┃",Star Gold Select
+http://delta.cloudf-nettv.xyz:80/mehj9l0sub/qh1u5prkk0/363893
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KjVnVkdL/images-2.jpg" group-title="┃HINDI MOVIES┃",Star Gold Select ᴴᴰ
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/96661
+
+#EXTINF:-1 tvg-id="DEFAULT" tvg-logo="https://i.ibb.co/Jw4vpzvX/images-3.jpg" group-title="┃HINDI MOVIES┃",ZEE CINEMA ˢᴰ
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Jw4vpzvX/images-3.jpg" group-title="┃HINDI MOVIES┃",ZEE CINEMA ᴜʟᴛʀa
+http://delta.cloudf-nettv.xyz:80/mehj9l0sub/qh1u5prkk0/1015809
+
+#EXTINF:-1 tvg-id="3" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11915-j9l5clzs-v1/imageContent-11915-j9l5clzs-m1.png" group-title="┃HINDI MOVIES┃", ZEE Cinema ᴴᴰ
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/96658
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wZM6Vjcf/2503131477001.jpg" group-title="┃HINDI MOVIES┃",Colors Cineplex ᴴᴰ
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/96674
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4gmTn0G6/images-1.png" group-title="┃HINDI MOVIES┃",COLORS CINEPLEX 
+http://delta.cloudf-nettv.xyz:80/mehj9l0sub/qh1u5prkk0/1015789
+
+#EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="13" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11993-j9luua9c-v1/imageContent-11993-j9luua9c-m1.png" group-title="┃HINDI MOVIES┃", Zing ᴴᴰ
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/33669
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20260528T040626SQUARE.png" tvg-chno="1000" group-title="┃HINDI MOVIES┃" , The Movie Club ᴴᴰ
+https://jmp2.uk/stvp-IN38000072R
+
+#EXTINF:-1 channel-id="IN40000100Y" tvg-id="IN40000100Y" tvg-chno="1006" tvg-name="The Movie Club+2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN40000100Y_20260528T040635SQUARE.png" group-title="┃HINDI MOVIES┃",The Movie Club+2
+https://jmp2.uk/stvp-IN40000100Y
+
+#EXTINF:-1 tvg-logo="http://tv.tvzon.tv/stalker_portal/misc/logos/320/2372.png" group-title="┃HINDI MOVIES┃", MINIPLEX ᴴᴰ
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/5805
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JWSmHj4P/images-6.jpg" group-title="┃HINDI MOVIES┃",STAR UTSAV MOVIES ᴴᴰ
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/33620
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/bollywood4u_512X512_balck.png" group-title="┃HINDI MOVIES┃", BOLLYWOOD 4U
+https://streams2.sofast.tv/ptnr-yupptv/title-BOLLYWOOD-4U-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/22d13e33-8705-40e8-9809-4e80aa795f15/manifest.m3u8 
+ 
+#EXTINF:-1 tvg-id="6" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11969-j9luigc0-v2/imageContent-11969-j9luigc0-m2.png" group-title="┃HINDI┃", Zee Anmol
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/97519
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" group-logo="https://i.ibb.co/4SCr3mX/zee5-logo.webp" group-title="┃HINDI MOVIES┃",Zee Anmol Cinema
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/131986
+
+#EXTINF:32 tvg-logo="https://i.ibb.co/JwKqVHPy/unnamed.jpg" group-title="┃HINDI MOVIES┃" , Zee Action
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/96659
+
+#EXTINF:32 tvg-logo="https://i.ibb.co/JwKqVHPy/unnamed.jpg" group-title="┃HINDI MOVIES┃"  ,Zee Action ᴴᴰ
+http://delta.cloudf-nettv.xyz:80/mehj9l0sub/qh1u5prkk0/364045
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S4tjqTDj/images-14.jpg" group-title="┃HINDI MOVIES┃",Zee Classic
+http://delta.cloudf-nettv.xyz:80/mehj9l0sub/qh1u5prkk0/363943
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S4tjqTDj/images-14.jpg" group-title="┃HINDI MOVIES┃",Zee Classic ᴴᴰ
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/97515
+
+#EXTINF:-1 tvg-id="12" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png"group-title="┃HINDI MOVIES┃" , Zee Bollywood
+http://delta.cloudf-nettv.xyz:80/mehj9l0sub/qh1u5prkk0/1015811
+
+#EXTINF:-1 tvg-id="12" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png"group-title="┃HINDI MOVIES┃" , Zee Bollywood ᴴᴰ
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/97518
+
+#EXTINF:-1 tvg-id="b4umovies.in" tvg-logo="https://i.ibb.co/VY9Y3nhX/unnamed.jpg" group-title="┃HINDI MOVIES┃",B4U MOVIES ᴴᴰ
+https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="b4umovies.in" tvg-logo="https://i.ibb.co/VY9Y3nhX/unnamed.jpg" group-title="┃HINDI MOVIES┃",B4U MOVIES ꜰнD
+http://delta.cloudf-nettv.xyz:80/mehj9l0sub/qh1u5prkk0/1015787
+
+#EXTINF:-1 tvg-name="UCN Blocknuster"tvg-logo="https://i.ibb.co/2cwFNtH/channels4-profile.jpg "group-title="┃HINDI MOVIES┃",BlockBuster
+https://ucncable.livebox.co.in/UCNLIVE8hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8LSZNYTx/B4-U-Kadak.png" group-title="┃HINDI MOVIES┃",B4U KADAK
+https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rGTRFHtF/images-3.png" group-title="┃HINDI MOVIES┃",MBC Bollywood ᴴᴰ
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/LdxQ5wXd/cropped-tvasiausa-logo.png" group-title="┃HINDI MOVIES┃",TV Asia
+http://delta.cloudf-nettv.xyz:80/mehj9l0sub/qh1u5prkk0/1015808
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/20jsLZ5q/large-16-9-webp-1661880865.webp" group-title="┃HINDI MOVIES┃",Shemaroo Bollywood ᴴᴰ
+https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+
+#EXTINF:-1 group-title="┃HINDI MOVIES┃" tvg-logo="https://i.ibb.co/20jsLZ5q/large-16-9-webp-1661880865.webp", Shemaroo Bollywood Movies ᴴᴰ
+https://prod-runn.cdn.runn.tv/shemaroo/stream/smrbol/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IndywoodTV.in" tvg-logo="https://i.ibb.co/jT3NCPp/logo-tv.png" group-title="┃HINDI MOVIES┃",Indywood TV
+https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
+
+#EXTINF:-1 group-title="┃HINDI MOVIES┃" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800008CX_20260528T040616SQUARE.png",South Station ᴴᴰ
+https://jmp2.uk/stvp-IN3800008CX
+
+#EXTINF:-1 tvg-name="UCN Dakshin Express"tvg-logo="https://i.ibb.co/WxqZ68s/XDBFN.png"group-title="┃HINDI MOVIES┃",UCN Dakshin Express
+https://ucncable.livebox.co.in/UCNLIVE9hls/live.m3u8
+
+#EXTINF:-1 channel-id="samsung-INBD4700006JD" tvg-id="INBD4700006JD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700006JD_20240813T052438SQUARE.png" group-title="┃HINDI MOVIES┃" tvg-chno="1002",Comedy King ᴴᴰ
+https://jmp2.uk/stvp-IN3600006RT
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FCxbWPr/images-19.jpg" group-title="┃HINDI MOVIES┃",YYZ TV
+http://cdn12.henico.net:8080/live/sursangam/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood Desi" tvg-logo="https://qqcdnpictest.mxplay.com/pic/5012.DistroTv.in/hi/1x1/208x208/test_pic1710252142411.webp" group-title="┃HINDI MOVIES┃",Hollywood Desi ᴴᴰ
+https://jmp2.uk/stvp-IN3800010SH
+
+#EXTINF:-1 channel-id="samsung-INBC4300008IH"  tvg-id="INBC4300008IH" tvg-chno="1114" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC4300008IH_20241113T015622SQUARE.png"  group-title="┃HINDI MOVIES┃",  Korean TV HINDI 
+https://jmp2.uk/stvp-IN3600005NF
+
+#EXTINF:-1 tvg-id="GodStandsTV.pk@Hindi" tvg-logo="https://i.imgur.com/EO6cYUI.png" group-title="┃HINDI MOVIES┃",God Stands TV Hindi
+https://online.godstands.tv:5443/WebRTCApp/streams/HindiStreaming.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5WtQzQRF/Black-Bold-Initial-AI-Business-Logo-20241014-161340-0000.png" group-title="┃LANGUAGE INTRO┃",HINDI ENTERTAINMENT
+https://hr02-ynr.github.io/yr/4.ts
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/JRpYSkMX/images-5.png" group-title="┃HINDI ENTERTAINMENT┃",Epic Tv ᴴᴰ
+https://jmp2.uk/stvp-IN17000109O 
+
+#EXTINF:-1 channel-id="IN1700011V7" tvg-id="IN1700011V7" tvg-chno="1115" tvg-name="Epic Bharat" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1700011V7_20260429T010045SQUARE.png" group-title="┃HINDI ENTERTAINMENT┃",Epic Bharat
+https://jmp2.uk/stvp-IN1700011V7
+
+#EXTINF:-1 channel-id="IN1700011V7" tvg-id="IN1700011V7" tvg-chno="1115" tvg-name="Epic Bharat" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1700011V7_20260429T010045SQUARE.png" group-title="┃HINDI ENTERTAINMENT┃",Epic Bharat ᴴᴰ
+https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zV2Yw2z1/channels4-profile.jpg" group-title="┃HINDI ENTERTAINMENT┃",NAZARA
+https://epiconvh.akamaized.net/live/nazara/master.m3u8
+
+#EXTINF:-1 group-title="┃HINDI ENTERTAINMENT┃" tvg-logo="https://i.ibb.co/zV2Yw2z1/channels4-profile.jpg", Nazara 2
+https://jmp2.uk/stvp-IN1700011V7 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WvyPxzNB/images-23.jpg" group-title="┃HINDI ENTERTAINMENT┃",DANGAL
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF: -1 tvg-id="Dangal.in" tvg-logo="https://i.ibb.co/pry4tthL/images-24.jpg" group-title="┃HINDI ENTERTAINMENT┃", DANGAL 2 
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
+ 
+#EXTINF:-1 group-title="┃HINDI ENTERTAINMENT┃" tvg-logo="https://i.ibb.co/KpLWmnZz/images.png" ,Big Magic
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/131989
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dwnfZn5X/images-25.jpg", group-title="┃HINDI ENTERTAINMENT┃" ,SHEMAROO TV ᴴᴰ
+https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="┃HINDI ENTERTAINMENT┃" tvg-logo="https://i.ibb.co/mrLwPRY3/images-26.jpg",Shemaroo Umang Plus ᴴᴰ
+https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/chunklist_b1628000_sleng.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d0C6WSqV/images.png" group-title="┃HINDI ENTERTAINMENT┃", Shemaroo josh
+https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/chunklist_b1628000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Anjan Tv.jpg" group-title="┃HINDI ENTERTAINMENT┃", Anjan Tv
+https://anjan.vstream.online/anjanorg/ngrp:anjan_hdall/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1tqMH8wD/oh-QMq-MIO-400x400.jpg" group-title="┃HINDI ENTERTAINMENT┃",India Life Tv ᴴᴰ
+https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id=560 tvg-name="GOOD TiMES" tvg-logo="https://i.ibb.co/hJhFVY27/mygoodtimes-logo.jpg" tvg-language="English" tvg-type="Lifestyle" group-title="┃HINDI ENTERTAINMENT┃", GOOD TiMES
+https://d2gvyg6lvauoko.cloudfront.net/230226/ndtvgoodtimes/chunks.m3u8
+
+#EXTINF:-1 channel-id="samsung-IN2600015OO" tvg-id="IN2600015OO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2600015OO_20240912T093637SQUARE.png" group-title="┃HINDI ENTERTAINMENT┃",Crime Tak
+https://jmp2.uk/stvp-IN2600015OO
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LzdV5bK6/images-1.jpg" group-title="┃HINDI ENTERTAINMENT┃",COLOUR BLIND
+https://streams.sofast.tv/ptnr-yupptv/title-COLOUR-BLIND-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7e58f6fd-62bc-49bc-9ec6-2766ed521743/manifest.m3u8
+
+#EXTINF:-1 channel-id="samsung-IN3800002VK"  tvg-id="IN3800002VK" tvg-chno="1118" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800002VK_20240925T012645SQUARE.png"  group-title="┃HINDI ENTERTAINMENT┃",  The触摸
+https://jmp2.uk/stvp-IN3800002VK
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/Dg7BcJWx/images.jpg" group-title="┃HINDI ENTERTAINMENT┃",Love World India
+https://transcoding29.livebox.co.in/loveworldhls/loveworld.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/20HThBZq/images-30.jpg" group-title="┃HINDI ENTERTAINMENT┃",Bollywood Masala
+https://jmp2.uk/stvp-IN4000555E
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sJ1G6Gkn/images-31.jpg" group-title="┃HINDI ENTERTAINMENT┃",Green Chillies TV- Zindagi ka Tadka!
+https://cable5tatasky.akamaized.net/live/GreenChillies_Playout-Main/chunks.m3u8
+ 
+#EXTINF:-1 tvg-id="mr-bean-live-action" tvg-name="mr-bean-live-action" tvg-logo="https://i.ibb.co/VcbCbxpG/images-33.jpg" group-title="┃HINDI ENTERTAINMENT┃" , Mr. Bean - Live Action
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="https://i.ibb.co/f66s5bQ/images.jpg" group-title="┃HINDI ENTERTAINMENT┃",SAHARA ONE
+http://delta.cloudf-nettv.xyz:80/mehj9l0sub/qh1u5prkk0/1015803
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/0jk0GSFN/images-1.png" group-title="┃HINDI ENTERTAINMENT┃",Vyas Channel
+https://playhls.media.nic.in/live/vyas-360p/index.m3u8
+
+#EXTINF: -1 tvg-id="923" tvg-logo="https://i.ibb.co/mrsbxbxm/images.jpg" group-title="┃HINDI ENTERTAINMENT┃", TATA FANCODE
+https://deltatesttatasky.akamaized.net/out/i/968287.m3u8
+
+#EXTINF:-1 group-title="┃HINDI ENTERTAINMENT┃",DD National
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QF8QN2kk/images-5.jpg" group-title="┃HINDI ENTERTAINMENT┃",DD National ᴴᴰ
+https://wvworker.cloudflarechannels.workers.dev/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/dd-national/index.m3u8?h=d3eyhgoylams0m
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sBGJ0KC/images-9.png" group-title="┃HINDI ENTERTAINMENT┃",DD Bharati ᴴᴰ
+https://wvworker.cloudflarechannels.workers.dev/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/dd-bharati/index.m3u8?h=d3eyhgoylams0m
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KxQDNscV/channels4-profile.jpg" group-title="┃HINDI ENTERTAINMENT┃",DD INDIA ᴴᴰ
+https://d2gvyg6lvauoko.cloudfront.net/230226/ddindia/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7dy0sG4t/Dd-himachal-pradesh-in.webp" group-title="┃HINDI ENTERTAINMENT┃",DD HIMACHAL
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/afd2e335b0ba40eb9bdf1096118c6ede/index.m3u8
+
+#EXTINF:-1 tvg-id="DDArunPrabha.in" tvg-logo="https://i.imgur.com/dHURIzT.png" group-title="┃HINDI ENTERTAINMENT┃",DD Arun Prabha
+https://d2lk5u59tns74c.cloudfront.net/out/v1/308556d9fd1246adb479ef012a39bbfe/index_3.m3u8
+
+#EXTINF:-1 tvg-id="DDChandana.in" tvg-logo="https://i.imgur.com/MaDlMtb.png" group-title="┃HINDI ENTERTAINMENT┃",DD Chandana
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/3829f99b-4951-4a9d-98c1-dbc3acfe5193/2.m3u8
+
+#EXTINF:-1 tvg-id="DDGirnar.in" tvg-logo="https://i.imgur.com/4RT559e.png" group-title="┃HINDI ENTERTAINMENT┃",DD Girnar
+https://d2lk5u59tns74c.cloudfront.net/out/v1/558fdb9aebb54bb5bbbf0ced03686148/index.m3u8
+
+#EXTINF:-1 tvg-id="DDJharkhand.in" tvg-logo="https://i.imgur.com/VKpjoD9.png" group-title="┃HINDI ENTERTAINMENT┃",DD Jharkhand
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2c6c5c20-6afe-47c4-934f-a0d7002cb151/2.m3u8
+
+#EXTINF:-1 tvg-id="DDManipur.in" tvg-logo="https://i.imgur.com/CvmIwPF.png" group-title="┃HINDI ENTERTAINMENT┃",DD Manipur
+https://d2lk5u59tns74c.cloudfront.net/out/v1/8b75afc6576f450e8f554b6c877681d2/index.m3u8
+
+#EXTINF:-1 tvg-id="DDMeghalaya.in" tvg-logo="https://i.imgur.com/ik83EbG.png" group-title="┃HINDI ENTERTAINMENT┃",DD Meghalaya
+https://d2lk5u59tns74c.cloudfront.net/out/v1/c313674ffced4c9a90f1bba436df2b9b/index.m3u8
+
+#EXTINF:-1 tvg-id="DDNagaland.in" tvg-logo="https://i.imgur.com/HUL4aF6.png" group-title="┃HINDI ENTERTAINMENT┃",DD Nagaland
+https://d2lk5u59tns74c.cloudfront.net/out/v1/29c92e0bef954a6d9b0908d1be29c1f0/index.m3u8
+
+#EXTINF:-1 tvg-id="DDTripura.in" tvg-logo="https://i.imgur.com/ctlcdOw.png" group-title="┃HINDI ENTERTAINMENT┃",DD Tripura
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/52b998e9510d41c29ad2ceca8ea3d849/index_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/831973165Frame_1597877904.webp" group-title="┃HINDI ENTERTAINMENT┃",DD KISAN
+https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/651127723DD_URDU.webp" group-title="┃HINDI ENTERTAINMENT┃",DD URDU
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/9b91e9007e754db39a8b32c6bfc5b24a/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/569510685DD_TRIPURA-6__1_.webp" group-title="┃HINDI ENTERTAINMENT┃",DD MADHYAPRADESH
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b5256b391a7c4ae6977535b73fd6f591/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/125118494DD_TRIPURA-1.webp" group-title="┃HINDI ENTERTAINMENT┃",DD GOA
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e5b9db1cc184406bb97159da2f120f91/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/756814886hissar_720x405.webp" group-title="┃HINDI ENTERTAINMENT┃",DD HARYANA
+https://d2lk5u59tns74c.cloudfront.net/out/v1/950fc69666474351bde0a32b9600c804/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/798231352129179468Dd-rajasthan-in.webp" group-title="┃HINDI ENTERTAINMENT┃",DD RAJASTHAN
+https://d2lk5u59tns74c.cloudfront.net/out/v1/5b6bbbf682b741ecbe279f75a4a9a3e6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/67253725DD_ASSAM.webp" group-title="┃HINDI ENTERTAINMENT┃",DD ASSAM
+https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1565141068Dd_bihar.webp" group-title="┃HINDI ENTERTAINMENT┃",DD BIHAR
+https://d2lk5u59tns74c.cloudfront.net/out/v1/380b0765f87741a4812bc952ec6fbf21/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1960626856Uttar_Pradesh.webp" group-title="┃HINDI ENTERTAINMENT┃",DD UP
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/70d4f6874fa64032a685e3123520f07d/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/371061248Uttarrakhand.webp" group-title="┃HINDI ENTERTAINMENT┃",DD UTTRAKHAND
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a70323c56ac647c2a8c8fc34e4c73912/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1113622373DD_KASHIR.webp" group-title="┃HINDI ENTERTAINMENT┃",DD KASHIR
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/8a59a828e80c49d0958925950cec0204/index.m3u8

@@ -1,0 +1,157 @@
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KpC1dJMj/Black-Bold-Initial-AI-Business-Logo-20241014-161936-0000.png" group-title="┃LANGUAGE INTRO┃",MARATHI
+https://hr02-ynr.github.io/yr/16.ts 
+
+#EXTINF:-1 group-title="┃MARATHI PREMIUM┃" tvg-logo="https://i.ibb.co/CGdq2VM/Zee-Marathi-HD-TV.jpg", Zee Marathi ᴴᴰ
+http://proxpanel.cc:80/h1wqD6CY/byxHYgX/693820
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/5tXLbhW/images-1.jpg" group-title="┃MARATHI PREMIUM┃",SONY MARATHI ᴴᴰ
+http://tv.cloudcdn.me:80/live.ts?channelId=78841&uid=15301&deviceMac=00:1A:79:31:34:0E
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/QFjvmL0m/images-2.jpg" group-title="┃MARATHI PREMIUM┃", COLORS MARATHI ᴴᴰ
+http://tv.cloudcdn.me:80/live.ts?channelId=28126&uid=15301&deviceMac=00:1A:79:31:34:0E
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fzPP9yWK/Shemaroo-Marathi-Bana.png" group-title="┃MARATHI PREMIUM┃", Shemaroo Marathibana ᴴᴰ
+https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/DfGyKnGC/sp.jpg" group-title="┃MARATHI PREMIUM┃", STAR PRAVAH ᴴᴰ
+http://tv.cloudcdn.me:80/live.ts?channelId=28128&uid=15301&deviceMac=00:1A:79:31:34:0E
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/21ZpYWV3/53d3891331321b7b1aa809edca92e24ae1653f0239e6e28e4b2239d19f4d047c.webp" group-title="┃MARATHI PREMIUM┃", STAR PRAVAH PICTURES ᴴᴰ
+http://tv.cloudcdn.me:80/live.ts?channelId=132278&uid=15301&deviceMac=00:1A:79:31:34:0E
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11987-j9lura8g-v1/imageContent-11987-j9lura8g-m1.png" group-title="┃MARATHI PREMIUM┃", Zee Talkies ᴴᴰ
+http://proxpanel.cc:80/h1wqD6CY/byxHYgX/693819
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RVs1Fmm/channels4-profile-1.jpg" group-title="┃MARATHI PREMIUM┃",SUN MARATHI ᴴᴰ
+http://tv.cloudcdn.me:80/live.ts?channelId=132272&uid=15301&deviceMac=00:1A:79:31:34:0E
+
+#EXTINF:-1 tvg-id="Zee24Taas.in" group-title="┃MARATHI SD┃",Zee 24 Taas
+https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
+ 
+#EXTINF:-1 tvg-id="jai-maharashtra" tvg-name="Jai Maharashtra" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Jai-Maharashtra_TV_black.png" tvg-language="Marathi" group-title="┃MARATHI SD┃",Jai Maharashtra
+https://server.livelegitpro.in/jaimaharashtratv/jaimaharashtratv/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xS2HVyyB/channels4-profile.jpg" group-title="┃MARATHI SD┃", DD SAHAYADRI
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/index.m3u8
+
+#EXTINF:-1 tvg-name="UCN News"tvg-logo="https://pbs.twimg.com/profile_images/1635278733421740035/BycaDjU3_400x400.png"group-title="┃MARATHI SD┃",UCN News
+https://ucncable.livebox.co.in/UCNNEWShls/live.m3u8
+
+#EXTINF:-1 tvg-name="Lord Buddha Tv" tvg-logo="https://i.ibb.co/5y3DYT3/images-3.jpg" group-title="┃MARATHI SD┃",Lord Buddha Tv
+https://lordbuddhatv.livebox.co.in/lordbuddhatvhls/live.m3u8
+
+#EXTINF:-1 tvg-name="UCN Comedy"tvg-logo="https://i.ibb.co/8gHdJNR/images-1.jpg"group-title="┃MARATHI SD┃",MARATHI TADKA
+https://ucncable.livebox.co.in/UCNLIVE10hls/live.m3u8
+
+#EXTINF:-1 tvg-name="UCN Plus"tvg-logo="https://i.ibb.co/J5VQ7Lm/JJJ.png"group-title="┃MARATHI SD┃",UCN MARATHI
+https://ucncable.livebox.co.in/UCNLIVE6hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5AshBho.png" group-title="┃MARATHI SD┃",TV9 Marathi 
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="ABPMajha.in" tvg-logo="" group-title="┃MARATHI SD┃",ABP MAJHA 
+https://yupprestreamliveus.akamaized.net/vglive-sk-355289/majha/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/NDTV_Marathi.png"  group-title="┃MARATHI SD┃", NDTV marathi
+https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/master_1.m3u8 
+
+#EXTINF:-1, tvg-logo="https://i.ibb.co/5X8Vqy8h/images.png" group-title="┃MARATHI SD┃",TOP MARATHI NEWS
+https://mix.drmlive.net/mix/playboxtv.m3u8?id=737149399 
+
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/819.png" group-title="┃MARATHI SD┃",RDX Goa
+https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist_dvr.m3u8
+
+#EXTINF:-1 channel-id="samsung-PRIMEGOA" tvg-id="PRIMEGOA" tvg-country="in" tvg-logo="https://i.ibb.co/prZ3d5nm/channels4-profile-2.jpg" group-title="┃MARATHI SD┃", Prime Media Goa
+https://rcdn.rixcast.com/primegoa/primegoa.m3u8
+
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/781.png" group-title="┃MARATHI SD┃",Prudent
+https://cable21tataplay.akamaized.net/prudentm.m3u8
+
+#EXTINF:-1 tvg-id="3167" tvg-name="Lok manch Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Lok_manch_Marathi.png" tvg-language="Marathi" group-title="┃MARATHI SD┃", Lok manch Marathi
+https://cloud.itassist.one/LOKMANCHMARATHI2087/TATAPLAY/index.m3u8
+
+#EXTINF:-1 tvg-id="3463" tvg-name="Times of Maharashtra" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TimesofMaharashtra.png" tvg-language="Marathi" group-title="┃MARATHI SD┃", Times of Maharashtra
+https://newsliveindia.com:4433/timesofmaharashtra/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VcWbxqbz/Black-Bold-Initial-AI-Business-Logo-20241014-162054-0000.png" group-title="┃LANGUAGE INTRO┃",ORIYA
+https://hr02-ynr.github.io/yr/20.ts
+ 
+#EXTINF:-1 tvg-id="" tvg-name="IN| STAR KIRAN HD ODIA" tvg-logo="https://lo1.in/ind/STAR KIRAN HD.png" group-title="┃ORIYA PREMIUM┃",STAR KIRAN ᴴᴰ
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/5773
+
+#EXTINF:-1, tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sidharth_TV.png" group-title="┃ORIYA PREMIUM┃",SIDHARTH TV ᴴᴰ
+http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/5769
+
+#EXTINF:-1 tvg-id="11" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12207-j9qlt5vk-v2/imageContent-12207-j9qlt5vk-m2.png" group-title="┃ORIYA SD┃", Zee Sarthak
+http://tv.cloudcdn.me:80/live.ts?channelId=78815&uid=15301&deviceMac=00:1A:79:31:34:0E
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DfhcG3fC/channels4-profile.jpg" group-title="┃ORIYA SD┃", DD ODIA
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ef4ea632b77a480ebd77106968aa99a9/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DfyVXKzX/unnamed.png" group-title="┃ORIYA SD┃",Odisha TV
+https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6Rvb05K1/channels4-profile-1.jpg" group-title="┃ORIYA SD┃",Nandighosha TV
+https://www.nandighoshatvlive.com/hls/stream/index.m3u8
+ 
+#EXTINF:-1 tvg-id="ts1207" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/EKMMNR_Thumbnail-v1/EKMMNR_Thumbnail.png" group-title="┃ORIYA SD┃",Ekamra Manoranjan
+https://cable53tataplay.akamaized.net/manoranjan/manoranjan/index.mpd
+
+#EXTINF:-1 tvg-id="ts1198" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/EKMCYN_Thumbnail-v1/EKMCYN_Thumbnail.png" group-title="┃ORIYA SD┃",Ekamra Cinema
+https://cable35tataplay.akamaized.net/cynema/cynema/index.mpd
+ 
+#EXTINF:-1 tvg-id="ts1196" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/EKMBHO_Thumbnail-v1/EKMBHO_Thumbnail.png"group-title="┃ORIYA SD┃" ,Ekamra Bharat Odia
+https://cable31tataplay.akamaized.net/bharat/bharat/index.mpd
+ 
+#EXTINF:-1 tvg-id="ts1204" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/KALBHA_Thumbnail-v3/KALBHA_Thumbnail.png" group-title="┃ORIYA SD┃",Kalinga Bharat
+https://cable47tataplay.akamaized.net/citymusic/citymusic/index.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6cQV4nLR/unnamed.jpg" group-title="┃ORIYA SD┃",NEWS 18 ODISHA 
+https://nw18live.cdn.jio.com/bpk-tv/News18_Odia_NW18_MOB/output01/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BV5CbBq1/images.jpg" group-title="┃ORIYA SD┃", Jai Jagannath PURI
+https://live.ekamraott.com/da/da/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LzWbY9wb/images-1.png" group-title="┃ORIYA SD┃", TARANG TV
+https://livetv.tarangplus.in/tarangtv-origin/live/tarangtv-origin/live_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nqvCkjmB/images.jpg" group-title="┃ORIYA SD┃", TARANG MUSIC
+https://livetv.tarangplus.in/tarangmusic-origin/live/tarangmusic-origin/live_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Dp9nLkp/images.jpg" group-title="┃ORIYA SD┃", Prarthana
+https://livetv.tarangplus.in/prarthana-origin/live/prarthana-origin/live_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="┃ORIYA SD┃", OTV
+https://livetv.tarangplus.in/otv-origin/live/otv-origin/live_720p/chunks.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fn3fy4H/images-1.jpg" group-title="┃ORIYA SD┃", Alankar 
+https://livetv.tarangplus.in/alankar-origin/live/alankar-origin/live_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/1202.png" group-title="┃ORIYA SD┃",Ekamra One paschima
+https://cable43tataplay.akamaized.net/onepaschima/onepaschima/index.mpd
+
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/1200.png" group-title="┃ORIYA SD┃",Ekamra Jatra
+https://cable39tataplay.akamaized.net/jatra/jatra/index.mpd
+
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/1199.png" group-title="┃ORIYA SD┃",Ekamra  Music
+https://cable37tataplay.akamaized.net/musiq/musiq/index.mpd
+
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/1197.png" group-title="┃ORIYA SD┃",Ekamra Nilachakra
+https://cable33tataplay.akamaized.net/nilachakra/nilachakra/index.mpd
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/EKMBCS_Thumbnail-v1/EKMBCS_Thumbnail.png" group-title="┃ORIYA SD┃",Baiscope TV
+https://live.ekamraott.com/baiscope/baiscope/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Paramatma.png" group-title="┃ORIYA SD┃",Ekamra Paramatma
+https://live.ekamraott.com/paramatma/paramatma/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/One_Paschima.png" group-title="┃ORIYA SD┃",One Paschima
+https://live.ekamraott.com/onepaschima/onepaschima/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BHfFLqkG/images-2.png" group-title="┃ORIYA SD┃",Rang Rangoli
+https://live.ekamraott.com/rr/rr/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nNDbtvHg/images.jpg" group-title="┃ORIYA SD┃",Sai Ekamra
+https://live.ekamraott.com/da/da/video.m3u8

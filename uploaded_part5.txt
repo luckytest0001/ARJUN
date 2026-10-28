@@ -1,0 +1,200 @@
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXhZhF58/Black-Bold-Initial-AI-Business-Logo-20241014-161634-0000.png" group-title="┃LANGUAGE INTRO┃",HINDI BHAKTI
+https://hr02-ynr.github.io/yr/10.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IqgrV92.png" group-title="┃HINDI BHAKTI┃" ,Aastha ᴴᴰ
+https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/chunklist_b2628000.m3u 
+ 
+#EXTINF:-1 tvg-id="AasthaBhajan.in" tvg-logo="https://i.imgur.com/LyDxqnF.png" group-title="┃HINDI BHAKTI┃",Aastha Bhajan
+#EXTVLCOPT:http-referrer=Aasthatv.in
+https://aasthaott.akamaized.net/110923/smil:bhajan.smil/chunklist_b264000.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/txbmsf.png" group-title="┃HINDI BHAKTI┃",Aastha Prime
+https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD13000053R_20230524T004214SQUARE.png_20230524004215.png" group-title="┃HINDI BHAKTI┃" , Divya
+https://jmp2.uk/stvp-INBD13000053R 
+
+#EXTINF:-1 channel-id="samsung-IN1600002IQ" tvg-id="IN1600002IQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600002IQ_20240612T015010SQUARE.png" group-title="┃HINDI BHAKTI┃" tvg-chno="1413",Divya Bhajan
+https://jmp2.uk/stvp-IN1600002IQ 
+
+#EXTINF:-1 tvg-id="Sadhna.in" tvg-logo="https://i.imgur.com/x13iiuI.png" group-title="┃HINDI BHAKTI┃",Sadhna
+https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="SANSKAR HD" tvg-logo="https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/1566764sanskar.png"  group-title="┃HINDI BHAKTI┃",SANSKAR HD
+https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/6996SANSKAR_DIGITAL.png" group-title="┃HINDI BHAKTI┃",Sanskar Digital
+https://deatfcv3xdvi3.cloudfront.net/out/v1/7a43dd2f64e34ec28da1b4bd6923251a/index.m3u8 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/3269519SATSANG_DIGITAL_LOGO.png" group-title="┃HINDI BHAKTI┃",Satsang Digital
+https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/index.m3u8 
+ 
+#EXTINF:-1 tvg-id="IshwarBhaktiTV.in" tvg-logo="https://i.imgur.com/tsPPU1Y.png" group-title="┃HINDI BHAKTI┃",Ishwar Bhakti TV 
+https://6n3yow8pl9ok-hls-live.5centscdn.com/ishwartvlive/tv.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/1410047subh_logo_new.png" group-title="┃HINDI BHAKTI┃",Subh
+https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/index.m3u8 
+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Total Bhakti.jpg" group-title="┃HINDI BHAKTI┃", Total Bhakti
+https://d34z4embz0hjf6.cloudfront.net/out/v1/d55b3323a9f142638f897378f0b526fe/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/Sai Leela.jpg" group-title="┃HINDI BHAKTI┃", Sai Leela
+https://server.thelegitpro.in/saileelatv/saileelatv/tracks-v1a1/mono.m3u8 
+
+#EXTINF:-1, tvg-logo="https://i.ibb.co/DHy7SM5k/channels4-profile-6.jpg" group-title="┃HINDI BHAKTI┃", Mangalmay TV
+http://mangalmaydigital.com:1935/liveashram/mystreamhd/chunklist_w1823042546.m3u8
+
+#EXTINF:-1, tvg-logo="https://i.ibb.co/BHjLc5x3/images-7.jpg" group-title="┃HINDI BHAKTI┃", Param Satta TV
+http://9b6lewmzlpxw-hls-live.5centscdn.com/paramsatta/fa755cf9ef27fc0bc12b00b420e8488a.sdp/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/4964141subh_cinema_logo_new.png" group-title="┃HINDI BHAKTI┃",Subh Cinema
+https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/oognna.jpeg" group-title="┃HINDI BHAKTI┃",Dharm Sandesh
+https://aasthaott.akamaized.net/110923/smil:arihant.smil/playlist.m3u8 
+ 
+#EXTINF:-1 tvg-id="908" group-title="┃HINDI BHAKTI┃" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62599-koxtswe0-v1/imageContent-62599-koxtswe0-m2.png" ,Nimbark TV
+https://legitpro.co.in/nimbarktv/nimbarktvbox/index.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/iklzje.jpeg" group-title="┃HINDI BHAKTI┃",Vedic
+https://aasthaott.akamaized.net/110923/smil:vedic.smil/playlist.m3u8 
+ 
+#EXTINF:-1 group-title="┃HINDI BHAKTI┃" tvg-logo="https://i.ibb.co/TMQgpwz9/images-17.jpg",Bless TV
+https://932y483pdjv8-hls-live.5centscdn.com/blesstv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HTgkS0Df/images-18.jpg" group-title="┃HINDI BHAKTI┃",35 MM BHAKTI
+https://cable63tataplay.akamaized.net/live6/35mm/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="7 Wonders " tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Seven-Wonders-TV/5ff2c3daa609d26dec000005/small_16_9.jpg" group-title="┃HINDI BHAKTI┃",7 Wonders 
+https://shemaroomeseventv.shemaroo.com/sevenwonderstvhls/live.m3u8?hdnts=st=1641041575~exp=1641052375~acl=*~data=testdata~hmac=99febcc3417ba10688060a984b10d21db30a18bfd96c197c511716e130346036 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FbgC6SFC/images-8.png" group-title="┃HINDI BHAKTI┃",Atmadarshan
+https://cable27tataplay.akamaized.net/atmadarshan/atmadarshan/index.m3u8
+
+#EXTINF:-1 channel-id="samsung-IN26000170D"  tvg-id="IN26000170D" tvg-chno="1373" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN26000170D_20241023T011743SQUARE.png"  group-title="┃HINDI BHAKTI┃",  Astro Tak
+https://jmp2.uk/stvp-IN26000170D
+
+#EXTINF:-1 tvg-id="SADATV.in" tvg-logo="https://i.ibb.co/cXPzpGp/SADA-CHANNEL-HBN-global-Punjabi-Satellite-TV.png" group-title="┃HINDI BHAKTI┃",ShArDA TV
+http://cdn12.henico.net:8080/live/sadatv/index.m3u8
+
+#EXTINF:-1 tvg-id="SankhyaTV.tt" tvg-logo="https://i.ibb.co/Dgv6PvM/STV-NEW-LOGO-WITH-WHITE-SHADOW.png" group-title="┃HINDI BHAKTI┃",Sankhya TV
+https://5c59fd5680a05.streamlock.net/live/_definst_/ngrp:SANKHYATV.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DivyaDarshanTV.np" tvg-logo="https://i.imgur.com/EwDQ12F.png" group-title="┃HINDI BHAKTI┃",Divya Darshan TV
+http://live.divyadarshantv.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="abps67" group-title="┃HINDI BHAKTI┃" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/vrindavan.png",ISKCON, Vrindavan
+https://cam.pc.cdn.bitgravity.com/cam/live/feed023/Alliance/live_darshan/playlist.m3u8?e=1801765799&h=15ed447ec07e3c3135b85ba313524249
+ 
+#EXTINF:-1 tvg-id="abps92" group-title="┃HINDI BHAKTI┃" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/ma_naina_devi.png",Ma Naina Devi
+https://cam.pc.cdn.bitgravity.com/cam/live/Nainadevi/Alliance/live_darshan/playlist.m3u8?e=1801765799&h=93a5645d011d2af4be1a9290454952b1
+
+#EXTINF:-1 tvg-id="abps151" group-title="┃HINDI BHAKTI┃" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/somnath.png",Somnath
+https://cam.pc.cdn.bitgravity.com/cam/live/somnath1/Alliance/live_darshan/playlist.m3u8?e=1801765799&h=455384ec507c887c68ab1b7abc1fd105
+
+#EXTINF:-1 tvg-id="964" tvg-name="Om Shanti" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Om_Shanti.png" tvg-language="Hindi" group-title="┃HINDI BHAKTI┃", Om Shanti
+https://webcastcdnbkwsu.b-cdn.net/live/godlywood_1/index.m3u8
+
+#EXTINF:-1 tvg-id="3361" tvg-name="Shri Shyam TV " tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shri_Shyam_TV.png" tvg-language="Hindi" group-title="┃HINDI BHAKTI┃", Shri Shyam TV 
+https://cloudcdn.in/live/shreeshyamtv/index.m3u8
+
+#EXTINF:-1 tvg-id="3236" tvg-name="Bhakti Dhara" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bhakti_Dhara.png" tvg-language="Hindi" group-title="┃HINDI BHAKTI┃", Bhakti Dhara
+https://newsliveindia.com:4433/bhaktidhara/index.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.ibb.co/PX0wtKx/images-2.png" group-title="┃HINDI BHAKTI┃",Anand TV
+https://live.legitpro.co.in/anandtv/index.m3u8
+
+#EXTINF:-1 tvg-id="1885" tvg-name="Kripa TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kripa_TV.png" tvg-language="Hindi" group-title="┃HINDI BHAKTI┃", Kripa TV
+https://umangmedia.livebox.co.in/Kripatvhls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B5cWkmnV/images-8.jpg" group-title="┃HINDI BHAKTI┃",BOLO JAI HANUMAN
+https://luckytest0001.github.io/aucky/1.mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1YXxZNDG/shri-ram-janki-36f645a35a.jpg" group-title="┃HINDI BHAKTI┃",श्री राम जानकी बैठे हैं मेरे सीने में 
+https://luckytest0001.github.io/aucky/8.mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yn4fpZ9Q/images-9.jpg" group-title="┃HINDI BHAKTI┃",Ram Siya Ram
+https://luckytest0001.github.io/aucky/7.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LzrHkP6F/images-10.jpg" group-title="┃HINDI BHAKTI┃",Rama Rama Ratte Ratte
+https://luckytest0001.github.io/aucky/10.mp4 
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HfyjWdZ7/images-11.jpg" group-title="┃HINDI BHAKTI┃",OM NAMO NARAYANA
+https://luckytest0001.github.io/aucky/2.mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7MK1tJC/maxresdefault.jpg", group-title="┃HINDI BHAKTI┃",Namami Shamishan
+https://pixeldrain.dev/api/file/kT4eXgzh 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMM6LN0/hindi-typography-shri-ganeshaya-namaha-260nw-1776438212.webp" group-title="┃HINDI BHAKTI┃",Shree Ganeshay Namah
+https://luckytest0001.github.io/aucky/9.mp4
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9H38vWcC/images-12.jpg" group-title="┃HINDI BHAKTI┃", Om Jai Ambey Gouri
+https://luckytest0001.github.io/aucky/11.mp4 
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RtVtwJK/images-13.jpg" group-title="┃HINDI BHAKTI┃",Bhor Bhai Din Chad Gaya Ni Ambey
+https://luckytest0001.github.io/aucky/12.mp4 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tpj58FCx/Karpur-Gauram-Karunavataram-Hindi-2022-20220222123843-500x500.jpg" group-title="┃HINDI BHAKTI┃",Karpura Gouram Chanting Meditation
+https://pixeldrain.dev/api/file/uxtDawLH
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LhNYwPJs/maxresdefault.jpg" group-title="┃HINDI BHAKTI┃",Vedic chanting
+https://pixeldrain.dev/api/file/VtFkt2iS
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7dbRhk3j/hq720.jpg" group-title="┃HINDI BHAKTI┃",रावण रचित शिव तांडव स्तोत्रम् Shiva Tandav Stotram Har har shiv shankar
+https://pixeldrain.dev/api/file/1AG7w2Xv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qvc2hzRT/Shanti-Path-Vedic-Chants-Hindi-2022-20231018005200-500x500.jpg" group-title="┃HINDI BHAKTI┃",Shanti Path Vedic Mantra Chanting
+https://pixeldrain.dev/api/file/VtFkt2iS
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JjJkjrqj/ab67616d00001e02b1addf33fd62f597a9b0abd6.jpg" group-title="┃HINDI BHAKTI┃",शनि चालीसा _ Shani Chalisa
+https://pixeldrain.dev/api/file/FPnCPuW2
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4gKYN6HN/images.jpg" group-title="┃HINDI BHAKTI┃",Alakh Niranjan
+https://pixeldrain.dev/api/file/yzHBeCUC
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7dfN5j6k/Black-Bold-Initial-AI-Business-Logo-20241014-161654-0000.png" group-title="┃LANGUAGE INTRO┃",HINDI KIDS
+https://hr02-ynr.github.io/yr/11.ts 
+ 
+#EXTINF:-1 group-title="┃HINDI KIDS┃" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png",Cartoon Network ᴴᴰ
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8
+
+#EXTINF:-1 group-title="┃HINDI KIDS┃" tvg-logo="https://i.ibb.co/21MYRD89/images.png",Pogo
+http://proxpanel.cc:80/h1wqD6CY/byxHYgX/694134
+
+#EXTINF:-1 channel-id="IN4000625P" tvg-id="IN4000625P" tvg-chno="1003" tvg-name="Green Gold TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000625P_20260528T040546SQUARE.png" group-title="┃HINDI KIDS┃",Green Gold TV
+https://jmp2.uk/stvp-IN4000625P
+
+#EXTINF:-1 tvg-id="cartoon-tv-classics" tvg-name="CARTOON TV CLASSICS" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/cartoon_classics_512X512_balck.png" tvg-language="ENG" group-title="┃HINDI KIDS┃",CARTOON TV CLASSICS 
+https://streams2.sofast.tv/ptnr-yupptv/title-CARTOON-TV-CLASSICS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
+
+#EXTINF:-1 channel-id="samsung-GB900003KR" tvg-id="GB900003KR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB900003KR_20240821T152333SQUARE.png" group-title="┃HINDI KIDS┃" tvg-chno="4606",Mr Bean Animated ᴴᴰ
+https://jmp2.uk/stvp-GB900003KR
+
+#EXTINF:-1 channel-id="samsung-INBC4300009W5" tvg-id="INBC4300009W5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC4300009W5_20230726T002247SQUARE.png_20230726002248.png" group-title="┃HINDI KIDS┃" tvg-chno="1265",Hooray Rhymes
+https://jmp2.uk/stvp-IN4600007TC
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/fz9SKDNS/images-9.jpg" tvg-name=""  group-title="┃HINDI KIDS┃", GREEN GOLD TV ᴴᴰ
+https://supflm.cdn.runn.tv/greengold/stream/grngld/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NgJs0XKj/images-2.jpg" group-title="┃HINDI KIDS┃",Powerkids Kartoon Channel
+https://cc-j2qrmdlg5y7lg.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j2qrmdlg5y7lg/powerkids.m3u8
+
+#EXTINF:-1 channel-id="samsung-IN25000020M" tvg-id="IN25000020M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN25000020M_20240828T013144SQUARE.png" group-title="┃HINDI KIDS┃" tvg-chno="1264",The Jungle Book
+https://jmp2.uk/stvp-IN25000020M
+
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/095K21728639914.jpg" group-title="┃HINDI KIDS┃",KIDDO MATIX TOONS
+https://jmp2.uk/stvp-IN4600008T4
+
+#EXTINF:-1 channel-id="samsung-USBD3500015R5" tvg-id="USBD3500015R5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500015R5_20240520T214850SQUARE.png" group-title="┃HINDI KIDS┃" tvg-chno="3642",Teletubbies
+https://jmp2.uk/stvp-GB2400007FA
+
+#EXTINF:-1 tvg-id="PlutoTVKidsAnimation.fr" tvg-logo="https://i.imgur.com/xYYJwTz.png" group-title="┃HINDI KIDS┃", Kids Animation
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8eba14a4ffb8000764e950/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e04dc42-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1894d5d0-76ab-4321-9f74-30abda806f6e
+ 
+#EXTINF:-1  tvg-logo="https://i.imgur.com/TJvf8vd.png" group-title="┃HINDI KIDS┃",Minimax HINDI
+https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="https://i.ibb.co/nMP1fTrr/unnamed.png" group-title="┃HINDI KIDS┃",Cartoonito
+http://iptv.prosto.tv:7000/ch208/video.m3u8

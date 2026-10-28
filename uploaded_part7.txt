@@ -1,0 +1,145 @@
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/spdM4Rcm/Black-Bold-Initial-AI-Business-Logo-20241014-161911-0000.png" group-title="┃LANGUAGE INTRO┃",BANGLA
+https://hr02-ynr.github.io/yr/15.ts
+ 
+#EXTINF:-1 group-title="┃BANGLA PREMIUM┃" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla.png", Zee Bangla ˢᴰ
+https://stream.ottplus.live/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8
+
+#EXTINF:-1 group-title="┃BANGLA PREMIUM┃" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla.png", Zee Bangla
+https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
+
+#EXTINF:-1 tvg-id="2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla.png" group-title="┃BANGLA PREMIUM┃", ZEE Bangla ᴴᴰ
+http://tv.cloudcdn.me:80/live.ts?channelId=132512&uid=15301&deviceMac=00:1A:79:31:34:0E
+
+#EXTINF:-1 group-title="┃BANGLA PREMIUM┃" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla.png", Zee Bangla Special ᴜʟᴛʀa
+https://catchup.yuppcdn.net/amazonv2/36/preview/zeebangla/master/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ZEE-BANGLA-CINEMA.png" group-title="┃BANGLA PREMIUM┃",ZEE BANGLA CINEMA ᴴᴰ
+http://proxpanel.cc:80/h1wqD6CY/byxHYgX/693956
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ZEE-BANGLA-CINEMA.png" group-title="┃BANGLA PREMIUM┃",ZEE BANGLA CINEMA ⁴ᴷ
+http://tv.cloudcdn.me:80/live.ts?channelId=119&uid=15301&deviceMac=00:1A:79:31:34:0E
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mCmKf6Hx/images-9.jpg" group-title="┃BANGLA PREMIUM┃", COLORS BANGLA 
+https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/26m6mRv/images.jpg" group-title="┃BANGLA PREMIUM┃", COLORS BANGLA ᴴᴰ
+https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/2500.m3u8?hdnts=
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/26m6mRv/images.jpg" group-title="┃BANGLA PREMIUM┃",Colors Bangla ꜰнD
+https://iptvcable.netlify.app/Altogether-007/Kolkata/ColorsBanglaHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/26m6mRv/images.jpg" group-title="┃BANGLA PREMIUM┃",Colors Bangla SPECIAL
+http://tv.cloudcdn.me:80/live.ts?channelId=92&uid=15301&deviceMac=00:1A:79:31:34:0E
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VQhCpkh/20240803-102008.png" group-title="┃BANGLA PREMIUM┃", STAR JALSHA 
+https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8?hdnts=
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8nr5jkw3/images-8.jpg" group-title="┃BANGLA PREMIUM┃",STAR JALSHA MOVIES ˢᴰ
+http://proxpanel.cc:80/h1wqD6CY/byxHYgX/693958
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8nr5jkw3/images-8.jpg" group-title="┃BANGLA PREMIUM┃",STAR JALSHA MOVIES
+http://tv.cloudcdn.me:80/live.ts?channelId=117&uid=15301&deviceMac=00:1A:79:31:34:0E
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jZBMnqpf/images-5.jpg" group-title="┃BANGLA PREMIUM┃",Sun Bangla
+http://proxpanel.cc:80/h1wqD6CY/byxHYgX/693979
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jZBMnqpf/images-5.jpg" group-title="┃BANGLA PREMIUM┃",Sun Bangla ᴴᴰ
+http://tv.cloudcdn.me:80/live.ts?channelId=90228&uid=15301&deviceMac=00:1A:79:31:34:0E
+
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/cccb3a0.png" group-title="┃BANGLA SD┃",DESHI TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TqwptqYv/images-7.jpg" group-title="┃BANGLA SD┃",R Bangla
+https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1YWKRZKX/images-6.jpg" group-title="┃BANGLA SD┃", BANGLA PLUS
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VpW7C3Fk/images-5.png" group-title="┃BANGLA SD┃",ZEE 24 GHANTA
+https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
+
+#EXTINF:-1 tvg-id="ZBBhakti.in" tvg-logo="https://i.ibb.co/k6kF9cNC/images-2.jpg" group-title="┃BANGLA SD┃",ZB Bhakti 
+https://server.zillarbarta.com/zbbhakti/index.m3u8
+
+#EXTINF:-1 tvg-id="ZBCartoon.in" tvg-logo="https://i.ibb.co/k6kF9cNC/images-2.jpg" group-title="┃BANGLA SD┃",ZB Cartoon 
+https://server.zillarbarta.com/zbcatun/video.m3u8
+
+#EXTINF:-1 tvg-id="ZBCinema.in" tvg-logo="https://i.ibb.co/k6kF9cNC/images-2.jpg" group-title="┃BANGLA SD┃",ZB CinemaBANGLA
+https://server.zillarbarta.com/ZBCINEMA/index.m3u8
+
+#EXTINF:-1 tvg-id="ZBMusic.in" tvg-logo="https://i.ibb.co/k6kF9cNC/images-2.jpg" group-title="┃BANGLA SD┃",ZB Music
+https://server.zillarbarta.com/zbmusic/index.m3u8
+
+#EXTINF:-1 group-title="┃BANGLA SD┃" tvg-logo="https://i.postimg.cc/vZc6kZRJ/Sananda-TV-Logo.jpg",Sananda TV
+http://115.187.41.216:8080/hls/sanandatv/index.m3u8
+
+#EXTINF:-1 group-title="┃BANGLA SD┃" tvg-logo="https://i.ibb.co/rRDPDs56/images-3.png",ETV BANGLA
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+#EXTINF:-1 group-title="┃BANGLA SD┃" tvg-logo="https://i.ibb.co/Y4RnVj6f/unnamed.png",NRB BANGLA
+https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDLcrvM8/Amar-Bangla-logo-2019.webp" group-title="┃BANGLA SD┃",AMAR BANGLA 
+http://115.187.41.216:8080/hls/amarbangla/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/McmD2dK/images-6.jpg" group-title="┃BANGLA SD┃", AMAR DIGITAL
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/amardigital.stream/playlist.m3u8
+
+#EXTINF:-1 channel-id="IN2100007QM" tvg-id="IN2100007QM" tvg-chno="1139" tvg-name="Cine Jomjomat" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100007QM_20260121T010800SQUARE.png" group-title="┃BANGLA SD┃",Cine Jomjomat
+https://jmp2.uk/stvp-IN2100007QM
+
+#EXTINF:-1 tvg-id="TribeTV.in" tvg-logo="https://i.imgur.com/zG2P1WZ.png" group-title="┃BANGLA SD┃",Tribe TV BANGLA
+https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
+ 
+#EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://i.ibb.co/5gYW5n4j/images.png" group-title="┃BANGLA SD┃", Deepto TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8 
+ 
+#EXTINF:-1 group-title="┃BANGLA SD┃" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Ananda.png",ABP Ananda
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kz5PPgBF/channels4-profile.jpg" group-title="┃BANGLA SD┃",TV9 Bangla
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sppt2Q35/images-2.png" group-title="┃BANGLA SD┃",MOVIE BANGLA 
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HDkQLY3x/Bangla-Jago.png" group-title="┃BANGLA SD┃",Bangla Jago
+http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
+ 
+#EXTINF:-1 group-title="┃BANGLA SD┃" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFjJUSe3rPmRzCq75WjOaQ_dTu_TXbuvRrdg&s",Rongeen tv
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQfj99W2/Sangeet-Bangla.png" group-title="┃BANGLA SD┃" ,Sangeet Bangla ᴴᴰ
+https://jmp2.uk/stvp-INBD4700018T7
+
+#EXTINF:-1 tvg-id="abps128" group-title="┃BANGLA SD┃" group-logo="https://pub-d9e70e5abf3a43bcadb504fbe8d10dfa.r2.dev/fta.png" tvg-logo="https://app.alliancebroadband.in/assets/images/tv/r_plus_gold.png",R Plus Gold
+https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="┃BANGLA SD┃" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg",Enter 10 Bangla
+https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8 
+
+#EXTINF:-1 tvg-id="DEFAULT" tvg-logo="https://i.ibb.co/ynkn4wwL/51-XVF8-DA2n-L.png" group-title="┃BANGLA SD┃",NEWS 18 BANGLA 
+https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5L10VMw/images.png" group-title="┃BANGLA SD┃",KOLKATA TV 
+https://cdn.ottlive.co.in/kolkatatv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wFzzxr0w/images.jpg" group-title="┃BANGLA SD┃", HIGH NEWS
+https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
+
+#EXTINF:-1 tvg-id="1796" tvg-name="Ananda Barta" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Anand_Barta.png" tvg-language="Bengali" group-title="┃BANGLA SD┃", Ananda Barta
+https://account19.livebox.co.in/Anandabarta2hls/live.m3u8
+
+#EXTINF:-1 tvg-id="2027" tvg-name="Raatdin Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/raatdinbangla.png" tvg-language="Bengali" group-title="┃BANGLA SD┃", Raatdin Bangla
+https://server.playontv.in/raatdinbangla/index.m3u8
+
+#EXTINF:-1 tvg-id="2354" tvg-name="Friends TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Friends_TV.png" tvg-language="Bengali" group-title="┃BANGLA SD┃", Friends TV
+https://server.playontv.in/friendstv/index.m3u8
+
+#EXTINF:-1 tvg-id="3331" tvg-name="STV Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/sailendar.png" tvg-language="Bengali" group-title="┃BANGLA SD┃", STV Bangla
+https://server.playontv.in/sailendar/index.m3u8
+
+#EXTINF:-1 tvg-id="3518" tvg-name="Cine Jomjomat" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Cine_Jomjomat.png" tvg-language="Bengali" group-title="┃BANGLA SD┃", Cine Jomjomat
+https://amg13779-amg13779c1-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13779-amg13779c1-amgplt0016/playlist.m3u8

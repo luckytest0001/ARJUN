@@ -1,0 +1,247 @@
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d4VnZ84b/Black-Bold-Initial-AI-Business-Logo-20241014-161214-0000.png" group-title="┃LANGUAGE INTRO┃",HINDI NEWS
+https://hr02-ynr.github.io/yr/5.ts
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wNchrCkh/images-7.jpg" group-title="┃HINDI NEWS┃" , Aaj Tak ᴴᴰ
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V0qFcD3F/images-6.png" group-title="┃HINDI NEWS┃", AajTak Prime
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
+ 
+#EXTINF:0 tvg-logo="https://i.ibb.co/Q3w1v3Lh/images-4.png" tvg-id="NDTV.uk" group-title="┃HINDI NEWS┃",NDTV India
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-ndtvindia-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=
+ 
+#EXTINF:0 tvg-country="IN" tvg-logo="https://1.bp.blogspot.com/-3Uciudd_7c4/YOrMDu0b_FI/AAAAAAAAAS0/iCm5y2aHGaU7rvEsvK333J9fTQ2FvxkXQCLcBGAsYHQ/s200/images%2B%252811%2529.jpeg" group-title="┃HINDI NEWS┃",News 18 India
+https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8
+ 
+#EXTINF:0 tvg-id="zee" group-title="┃HINDI NEWS┃",INDIA TV
+https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7JFpXZDR/channels4-profile-5.jpg" group-title="┃HINDI NEWS┃",India TV Aap ki Adalat
+https://jmp2.uk/stvp-IN2600020H9 
+
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.ibb.co/KpwxMbTQ/images.png" group-title="┃HINDI NEWS┃",Abp ganga
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ganga-livetv/master.m3u8
+
+#EXTINF:-1 channel-id="samsung-INBC4300010Z6" tvg-id="INBC4300010Z6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC4300010Z6_20240131T032349SQUARE.png_20240131032350.png" tvg-chno="1023" group-title="┃HINDI NEWS┃" , Zee News
+https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
+ 
+#EXTINF:-1 tvg-id="Zee Business" tvg-logo="https://i.ibb.co/nsC9RWdm/images-3.png" group-title="┃HINDI NEWS┃",Zee Business Hindi
+https://dwby15d04agvq.cloudfront.net/index_5.m3u8
+
+#EXTINF:0 tvg-id="RepublicBharat.uk" tvg-logo="https://i.ibb.co/W4dLD2Pq/channels4-profile-4.jpg" group-title="┃HINDI NEWS┃",Republic Bharat
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/samsungin-republicbharat-samsungindia/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+ 
+#EXTINF:-1 tvg-id="IndiaToday.in" tvg-logo="https://i.imgur.com/koFYddE.png" group-title="┃HINDI NEWS┃",India Today
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+ 
+#EXTINF:-1 channel-id="samsung-INBD400006H0" tvg-id="INBD400006H0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400006H0_20240131T032404SQUARE.png_20240131032405.png" tvg-chno="1021" group-title="┃HINDI NEWS┃" , ABP News
+https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-472500/abpnews/master.m3u8
+ 
+#EXTINF:-1 channel-id="samsung-INBD2500017JZ" tvg-id="INBD2500017JZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500017JZ_20240508T020847SQUARE.png" tvg-chno="1066" group-title="┃HINDI NEWS┃" , News18 Punjab Haryana
+https://jmp2.uk/stvp-INBD2500017JZ 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/ETV_RAJASTHAN.png" group-title="┃HINDI NEWS┃" group-logo="https://www.nw18.com/logos/news18.png",News18 Rajasthan
+https://nw18live.cdn.jio.com/bpk-tv/News18_Rajasthan_NW18_MOB/output01/index.m3u8
+ 
+#EXTINF:-1 tvg-id="ts1044" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/GBIN_Thumbnail-v1/GBIN_Thumbnail.png" group-title="┃HINDI NEWS┃",Global India
+https://globalindia.akamaized.net/globalindiatv/globalindiatv/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/21nh7v2z/7cf354718231d01c5c4d32e64163d9a33a7e46c924f787df72b8a5588137ec08.webp" group-title="┃HINDI NEWS┃",Bharat24 NEWS
+https://legitpro.co.in/bharat24live/bharat24live/tracks-v3a1/mono.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXy4D6f0/unnamed-1.jpg" group-title="┃HINDI NEWS┃",ZEE PUNJAB NEWS 
+https://d31s6sxcz6vnac.cloudfront.net/index_3.m3u8
+ 
+#EXTINF:-1 tvg-id="AmarUjala.in" tvg-logo="https://i.imgur.com/ndQ8LZp.png" group-title="┃HINDI NEWS┃",Amar Ujala NEWS
+https://amarujala.ottlive.co.in/amarujala/index.m3u8
+
+#EXTINF:-1 tvg-name="MH1 News" tvg-logo="https://i.ibb.co/5hbzNv6C/mh-one-tv-network-ltd-india-logo.jpg" group-title="┃HINDI NEWS┃",MH1 News
+https://livestream.jswk.online/mhonenews/live/index.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="ZEE Bharat" tvg-logo="https://hindi.cdn.zeenews.com/hindi/sites/all/themes/desktop_main_th/images/zee_bharat_logo.png" group-title="┃HINDI NEWS┃",ZEE HINDUSTAN 
+https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JwTLNBzM/250305659001.jpg" group-title="┃HINDI NEWS┃",ZEE NEWS RAJASTHAN
+https://d2jso9g61rg1h8.cloudfront.net/index_3.m3u8
+ 
+#EXTINF:-1 tvg-id="ts1278" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/PRIMETV_Thumbnail.png-v2/PRIMETV_Thumbnail.png.png" group-title="┃HINDI NEWS┃",Prime TV
+https://cable71tataplay.akamaized.net/primetv/primetv/index.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1fYFVVGV/images-6.jpg" group-title="┃HINDI NEWS┃",ZEE NEWS HARYANA 
+https://d31s6sxcz6vnac.cloudfront.net/index_3.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQmfyDVh/images-4.jpg" group-title="┃HINDI NEWS┃",ZEE NEWS UP
+https://news.udx.workers.dev/zeeup/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PGrFjL19/unnamed.jpg" group-title="┃HINDI NEWS┃",ZEE MADHYA PRADESH NEWS 
+https://d1ek9hdbw9xxcw.cloudfront.net/index_4.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zHFYrPGj/images-3.jpg" group-title="┃HINDI NEWS┃", GNT News
+https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/live_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/99mQ24Kq/images-3.png" group-title="┃HINDI NEWS┃", Bharat Express
+https://stream1.livebox.co.in/VCAREhls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mk7cfwbJ/channels4-profile-1.jpg" group-title="┃HINDI NEWS┃",1st India News
+https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
+
+#EXTINF:-1 tvg-id="910" group-title="┃HINDI NEWS┃" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62607-koxuikrs-v1/imageContent-62607-koxuikrs-m1.png" ,C News Bharat
+https://cable18tataplay.akamaized.net/cnews/cnews/index.m3u8
+ 
+#EXTINF:-1 tvg-id="bharat-samachar" tvg-name="Bharat Samachar" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Bharat-Samachar_TV_black.png" tvg-language="Hindi" group-title="┃HINDI NEWS┃",Bharat Samachar
+https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jj3qpgmq/TV9-Bharatvarsh.webp" group-title="┃HINDI NEWS┃",TV9 Bharatvarsh 
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="1040" group-title="┃HINDI NEWS┃" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/JANS_Thumbnail-v1/JANS_Thumbnail.png" ,Jansetu
+https://jansetutataplay.akamaized.net/hls10/jansetunews/index.m3u8
+
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Loksabha_TV.png" group-title="┃HINDI NEWS┃",Sansad TV 1
+https://playhls.media.nic.in/live/lstv-360p/index.m3u8
+
+#EXTINF:-1 tvg-id=3024 tvg-name="India TV Yoga Channel" tvg-logo="https://i.ibb.co/qL4GcPj5/images.jpg" tvg-language="Hindi" tvg-type="News" group-title="┃HINDI NEWS┃", India TV Yoga Channel
+https://jmp2.uk/stvp-IN2600021ED
+
+#EXTINF:-1 channel-id="samsung-IN3900006S6" tvg-id="IN3900006S6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900006S6_20241211T020352SQUARE.png" group-title="┃HINDI NEWS┃", News State MP CG
+https://jmp2.uk/stvp-IN4000012ML
+
+#EXTINF:-1 channel-id="samsung-IN3900008R9" tvg-id="IN3900008R9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900008R9_20241211T020355SQUARE.png" group-title="┃HINDI NEWS┃", News State PUN HAR HIM
+https://jmp2.uk/stvp-IN300083R1
+
+#EXTINF:-1 channel-id="samsung-IN3900007Y7" tvg-id="IN3900007Y7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900007Y7_20241211T020349SQUARE.png" group-title="┃HINDI NEWS┃", News State BR JH
+https://jmp2.uk/stvp-IN300085JT
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n8tj0vBQ/images-1.jpg" group-title="┃HINDI NEWS┃",Samachar 24 HD News
+https://cable73tataplay.akamaized.net/samachar24/samachar24/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GfLzSF8H/images.png" group-title="┃HINDI NEWS┃",India 24x7
+https://jmp2.uk/stvp-IN4000007M9
+
+#EXTINF:-1 channel-id="samsung-IN26000190S"  tvg-id="IN26000190S" tvg-chno="1030" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN26000190S_20240911T003813SQUARE.png"  group-title="┃HINDI NEWS┃",  India TV Speed News
+https://jmp2.uk/stvp-IN4000002JA
+
+#EXTINF:-1 channel-id="samsung-INBD25000021N"  tvg-id="INBD25000021N" tvg-chno="1050" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD25000021N_20241023T011722SQUARE.png"  group-title="┃HINDI NEWS┃",  News9 Live
+https://jmp2.uk/stvp-INBD25000021N
+
+#EXTINF:-1 channel-id="samsung-INBC2800006GF" tvg-id="INBC2800006GF" tvg-chno="1051" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800006GF_20240912T093654SQUARE.png"  group-title="┃HINDI NEWS┃",  NDTV Profit
+https://jmp2.uk/stvp-INBC2800006GF
+
+#EXTINF:-1 tvg-name="AWAAZ INDIA TV "tvg-logo="https://awaazindiatv.com/wp-content/uploads/2021/03/awaazindiatv.png"group-title="┃HINDI NEWS┃",AWAAZ INDIA TV
+https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ccg3JKWh/images.png" group-title="┃HINDI NEWS┃",SADHNA PLUS NEWS
+https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SDZyHfX8/CNBC-Awaaz-logo.png" group-title="┃HINDI NEWS┃" group-title="┃HINDI NEWS┃",CNBC Awaaz
+https://nw18live.cdn.jio.com/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/index.m3u8
+
+#EXTINF:-1 tvg-id="VIPNews.in@SD" tvg-logo="https://i.ibb.co/rRyLM550/images-4.png" group-title="┃HINDI NEWS┃",VIP News 
+https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="38" tvg-chno="15" tvg-name="ndtv-mp" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/zhhvxq.png" group-title="┃HINDI NEWS┃", NDTV MP
+https://vg-ndtvlive.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-860950/main.m3u8?hdnts=st%3D1752285021~exp%3D1752306621~acl%3D%21%2A%2Fptnr-yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fvglive-sk-860950%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.171.237.20_yuppfast_2_channel_38_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.171.237.20_yuppfast_2_channel_38_-1~hmac%3D96036296073e02a926e8d0378437029eaecbb1ddc67462337db80594c0986cd4
+
+#EXTINF:-1 tvg-id="39" tvg-chno="20" tvg-name="ndtv-rajasthan" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ehlmdz.png" group-title="┃HINDI NEWS┃", NDTV Rajasthan
+https://vg-ndtvlive.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-753641/main.m3u8?hdnts=st%3D1752285023~exp%3D1752306623~acl%3D%21%2A%2Fptnr-yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fvglive-sk-753641%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.171.237.20_yuppfast_2_channel_39_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.171.237.20_yuppfast_2_channel_39_-1~hmac%3De7a27874cf9b7977763c8ea3d29e5f6991e419fedfd34d8e64cda22e5539176d
+
+#EXTINF:-1 group-title="┃HINDI NEWS┃",India Today
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sdm40YNW/channels4-profile.jpg" group-title="┃HINDI NEWS┃",New Delhi TV 24x7 India
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xqF2WRCX/images-3.jpg" group-title="┃HINDI NEWS┃",Soochna India
+https://mix.drmlive.net/mix/playboxtv.m3u8?id=621146662
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gFv8hvfD/cb608225955450c9d7184fed37eec4f7.png" group-title="┃HINDI NEWS┃",MEDIA9
+https://mix.drmlive.net/mix/playboxtv.m3u8?id=892388087
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N2tmLcGD/images-2.jpg" group-title="┃HINDI NEWS┃",Express News Bharat
+https://mix.drmlive.net/mix/playboxtv.m3u8?id=375180410
+
+#EXTINF:-1 tvg-id="HNN24x7.in@SD" group-title="┃HINDI NEWS┃",HNN 24x7 
+https://ott.livelegitpro.in:9899/hnnnews/hnnnews/tracks-v1/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-id="3104" tvg-name="Smriti Patra TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Smriti_Patra.png" tvg-language="Hindi" group-title="┃HINDI NEWS┃", Smriti Patra TV
+https://cdn.itassist.one/smrti/live/index.m3u8
+
+#EXTINF:-1 tvg-id="3172" tvg-name="India 24x7 Aap Tak TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aap_Tak_tv.png" tvg-language="Hindi" group-title="┃HINDI NEWS┃", India 24x7 Aap Tak TV
+https://itassist.one/livetv/india24x7/index.m3u8
+
+#EXTINF:-1 tvg-id="3190" tvg-name="Chanakya News National" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Chanakya_News_National.png" tvg-language="Hindi" group-title="┃HINDI NEWS┃", Chanakya News National
+https://newsliveindia.com:4433/chanakyanational/index.m3u8
+
+#EXTINF:-1 tvg-id="3469" tvg-name="NSC9 News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/nsc9.png" tvg-language="Hindi" group-title="┃HINDI NEWS┃", NSC9 News
+https://legitpro.co.in/nsc9/index.m3u8
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/XfY3JjyT/images.png" group-title="┃HINDI NEWS┃",PUBLIC FIRST
+https://publicfirst.livebox.co.in/PUBLICFIRSThls/PUBLIC.m3u8
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/bjZ3m60v/images-1.jpg" group-title="┃HINDI NEWS┃",Taaza TV
+https://live.we2live.in/taazatv/live/playlist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.ibb.co/VWv4m4Xs/images-2.jpg" group-title="┃HINDI NEWS┃",22 Scope News
+https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.ibb.co/jkPh5b4Q/images-3.jpg" group-title="┃HINDI NEWS┃",Janta TV
+https://live.jswk.online/IK_RTPM/live/index.m3u8
+
+#EXTINF:0 tvg-country="HT" tvg-logo="https://i.ibb.co/G3xzYgn2/images-2.png" group-title="┃HINDI NEWS┃",TNP NEWS
+https://server.thelegitpro.in/tnpnews/tnpnews/index.m3u8
+
+#EXTINF:0 tvg-country="HT" tvg-logo="https://i.ibb.co/tT5nZF6Q/images-1.png" group-title="┃HINDI NEWS┃",SUDARSHAN NEWS
+https://ott.livelegitpro.in/sudarshannews/sudarshannews/tracks-v1/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-id="3532" tvg-name="ITN National" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ITNNational.png" tvg-language="Hindi" group-title="┃HINDI NEWS┃", ITN National
+https://newsliveindia.com:4433/itn/index.m3u8
+
+#EXTINF:-1 tvg-id="3505" tvg-name="The Voice TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/thevoicetv.png" tvg-language="Hindi" group-title="┃HINDI NEWS┃", The Voice TV
+https://legitpro.co.in/thevoicetv/thevoicetv/index.m3u8
+
+#EXTINF:-1 tvg-id="3484" tvg-name="The Hind24 News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TheHind24News.png" tvg-language="Hindi" group-title="┃HINDI NEWS┃", The Hind24 News
+https://th24.cloud/the24cloud/live1/index.m3u8
+
+#EXTINF:-1 tvg-id="3328" tvg-name="Aagaaz Times" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/aagaaztimes.png" tvg-language="Hindi" group-title="┃HINDI NEWS┃", Aagaaz Times
+https://live1.ottlive.co.in/aagaaztimes/index.m3u8
+
+#EXTINF:-1 tvg-id="3329" tvg-name="Mirror Media" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Mirror_Media.png" tvg-language="Hindi" group-title="┃HINDI NEWS┃", Mirror Media
+https://live1.ottlive.co.in/mirrormedia/mirrormedia/index.m3u8
+
+#EXTINF:-1 tvg-id="3310" tvg-name="MNS News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MNS_News.png" tvg-language="Hindi" group-title="┃HINDI NEWS┃", MNS News
+https://account23.livebox.co.in/Mnsnewshls/live.m3u8
+
+#EXTINF:-1 tvg-id="3283" tvg-name="VACC 24 News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/VACC_24_News.png" tvg-language="Hindi" group-title="┃HINDI NEWS┃", VACC 24 News
+https://newsliveindia.com:4433/vacc/index.m3u8
+
+#EXTINF:-1 tvg-id="3181" tvg-name="News Nation 81" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_Nation_81.png" tvg-language="Hindi" group-title="┃HINDI NEWS┃", News Nation 81
+https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8
+
+#EXTINF:-1 tvg-id="3172" tvg-name="India 24x7 Aap Tak TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aap_Tak_tv.png" tvg-language="Hindi" group-title="┃HINDI NEWS┃", India 24x7 Aap Tak TV
+https://itassist.one/livetv/india24x7/index.m3u8
+
+#EXTINF:-1 tvg-id="3105" tvg-name="National Tv India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/National_Tv_India.png" tvg-language="Hindi" group-title="┃HINDI NEWS┃", National Tv India
+https://itassist.one/ntinews/nti/index.m3u8
+
+#EXTINF:-1 tvg-id="3104" tvg-name="Smriti Patra TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Smriti_Patra.png" tvg-language="Hindi" group-title="┃HINDI NEWS┃", Smriti Patra TV
+https://cdn.itassist.one/smrti/live/index.m3u8
+
+#EXTINF:-1 tvg-id="3090" tvg-name="KBC News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/kbcnews.png" tvg-language="Hindi" group-title="┃HINDI NEWS┃", KBC News
+https://cable81tataplay.akamaized.net/kbcnews/kbcnews/index.m3u8
+
+#EXTINF:-1 tvg-id="2954" tvg-name="TV45" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV45.png" tvg-language="Hindi" group-title="┃HINDI NEWS┃", TV45
+https://server.livelegitpro.in/bnews24/bnews24/video.m3u8
+
+#EXTINF:-1 tvg-id="2937" tvg-name="Update India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Update_India.png" tvg-language="Hindi" group-title="┃HINDI NEWS┃", Update India
+https://desitashantv.livebox.co.in/updateindiahls/updateindia.m3u8
+
+#EXTINF:-1 tvg-id="1457" tvg-name="News Only" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_Only.png" tvg-language="Punjabi" group-title="┃HINDI NEWS┃", News Only
+https://livestream.unlimitedcdn.com/newsonly/index.m3u8
+
+#EXTINF:0 tvg-country="HT" tvg-logo="https://i.ibb.co/vxSKbhND/images.jpg" group-title="┃HINDI NEWS┃",Salaam TV 
+https://d2o3r1shda7xvv.cloudfront.net/index_5.m3u8 
+
+#EXTINF:0 tvg-country="HT" tvg-logo="https://i.ibb.co/3yxBNNtn/9768102038d93a2e909389aec47b8f7a.jpg" group-title="┃HINDI NEWS┃", Mirror Now
+https://dai.google.com/linear/hls/event/ClPOullTQky5vGPf7fMZ8g/master.m3u8

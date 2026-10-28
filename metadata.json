@@ -1,0 +1,6 @@
+{
+  "name": "IPTV Player",
+  "description": "Material Design IPTV player supporting M3U and XSPF playlists with live HLS channel streaming, category groups, and favorites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

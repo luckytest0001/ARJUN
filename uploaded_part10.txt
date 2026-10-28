@@ -1,0 +1,163 @@
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/93Y4Rpp2/Black-Bold-Initial-AI-Business-Logo-20241014-162035-0000.png" group-title="┃LANGUAGE INTRO┃",TELUGU
+https://hr02-ynr.github.io/yr/19.ts
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tTmPdN9x/images-4.jpg" group-title="┃TELUGU PREMIUM┃",ZEE TELUGU ᴴᴰ
+http://ae325328.ucomist.net/iptv/Z3SWF9EL3YPX5N/6713/index.m3u8
+
+#EXTINF:-1 tvg-id="DEFAULT" tvg-logo="https://i.ibb.co/Tqn4PSLY/Star-maa-logo-2023.png" group-title="┃TELUGU PREMIUM┃",STAR MAA
+http://tv.cloudcdn.me:80/live.ts?channelId=43458&uid=15301&deviceMac=00:1A:79:31:34:0E
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RpR2ZcbQ/images-3.jpg" group-title="┃TELUGU PREMIUM┃",STAR MAA MOVIES ᴴᴰ
+http://tv.cloudcdn.me:80/live.ts?channelId=78831&uid=15301&deviceMac=00:1A:79:31:34:0E
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7xfs29sW/images-2.jpg" group-title="┃TELUGU PREMIUM┃", STAR MAA GOLD
+http://tv.cloudcdn.me:80/live.ts?channelId=43457&uid=15301&deviceMac=00:1A:79:31:34:0E
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xtxyjWJh/unnamed-4.jpg" group-title="┃TELUGU SD┃", SVBC TTD
+https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SVBC2.in" tvg-logo="https://i.imgur.com/NtmRt1A.png" group-title="┃TELUGU SD┃",SVBC 2
+http://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8
+
+#EXTINF:-1 tvg-id="SVBC3.in" tvg-logo="https://i.imgur.com/Ae2PMTu.png" group-title="┃TELUGU SD┃",SVBC 3
+https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SVBC4.in" tvg-logo="https://i.imgur.com/vCFdZny.png" group-title="┃TELUGU SD┃",SVBC 4
+https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/iilpuo.jpeg" group-title="┃TELUGU SD┃",Aastha Telugu
+https://aasthaott.akamaized.net/110923/smil:aasthatelugu.smil/playlist.m3u8
+
+#EXTINF:-1 logo="https://i.ibb.co/KcBk65zv/unnamed-3.jpg" group-title="┃TELUGU SD┃" ,Telugu One TV
+https://teluguone-yupptv.vgcdn.net/v1/019be9e3f04d1ea55784338b5c3e89/019be9e4474415fc60e93459e1e808/teluguone_2500k.m3u8
+
+#EXTINF:-1 channel-id="samsung-IN4900003U3" tvg-id="IN4900003U3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900003U3_20250811T033449SQUARE.png" group-title="┃TELUGU SD┃" ,ETV Comedy
+https://jmp2.uk/stvp-IN4900003U3
+
+#EXTINF:-1 channel-id="samsung-IN4900004LP" tvg-id="IN4900004LP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900004LP_20250811T033452SQUARE.png" group-title="┃TELUGU SD┃" ,ETV Josh
+https://jmp2.uk/stvp-IN4900004LP
+
+#EXTINF:-1 channel-id="samsung-IN4900002RV" tvg-id="IN4900002RV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900002RV_20250811T033455SQUARE.png" group-title="┃TELUGU SD┃" ,ETV Music
+https://jmp2.uk/stvp-IN4900002RV
+
+#EXTINF:-1 channel-id="samsung-IN4900001AQ" tvg-id="IN4900001AQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900001AQ_20250811T033458SQUARE.png" group-title="┃TELUGU SD┃" ,ETV News
+https://jmp2.uk/stvp-IN4900001AQ
+
+#EXTINF:-1 tvg-id="65866" tvg-logo="https://global-fds-img.cdn.pandora.xiaomi.com/mitv/10007/0/db6dca6a590ff4a23383f0587d5540b4.webp" group-title="┃TELUGU SD┃", MANGOTV
+https://mix.drmlive.net/mix/xiaomi-65866.m3u8
+
+#EXTINF:-1 tvg-id="SwatantraTV.in@SD" tvg-logo="https://i.ibb.co/gFbKMWzX/images-1.png" group-title="┃TELUGU SD┃",Swatantra TV 
+https://mumbai-edge.smartplaytv.in/SwatantraTV/index.m3u8
+
+#EXTINF:-1 tvg-id="Prime9News.in@SD" tvg-logo="https://i.ibb.co/zVZq9kGm/channels4-profile-1.jpg" group-title="┃TELUGU SD┃",Prime9 News 
+https://mumbai-edge.smartplaytv.in/Prime9News/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xKHpNwSY/unnamed.jpg" group-title="┃TELUGU SD┃", V6 NEWS
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/v6news_nim_https/140622/v6news/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jv5xq3nG/images-5.jpg" group-title="┃TELUGU SD┃", V9 NEWS
+https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xKMVfXpf/images-4.jpg" group-title="┃TELUGU SD┃", CVR NEWS
+http://main.light-ott.net/play/live.php?mac=00:1A:79:C8:62:98&stream=373505&extension=ts
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/KpT7mpmD/images.png" group-title="┃TELUGU SD┃",TV 9 TELUGU
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/pub-iotv9telcmjhcs/live_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="ZeeTeluguNews.in@SD" tvg-logo="https://i.ibb.co/BHPdMWsQ/channels4-profile.jpg" group-title="┃TELUGU SD┃",Zee Telugu News 
+https://d116gfrn8orazi.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NjcxOTc5NzJ9.O4qmdMPbHwKrCg6hFXvD70vjSPWKQd0a7NrjmFdeMB8
+
+#EXTINF:-1 tvg-id="3529" tvg-name="4 SiDES TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/4sites.png" tvg-language="Telugu" group-title="┃TELUGU SD┃", 4 SiDES TV
+https://stream.ottlive.co.in/4sidestv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://amigofx.com/livetvlogo/pcnhd.png" group-title="┃TELUGU SD┃",PCN HD
+https://amigofx.com:1936/pcnhd/pcnhd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b5jvP2np/Black-Bold-Initial-AI-Business-Logo-20241014-162138-0000.png" group-title="┃LANGUAGE INTRO┃",KANNADA
+https://hr02-ynr.github.io/yr/21.ts
+
+#EXTINF:-1 tvg-id="9" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33827-jo5kcr1c-v4/imageContent-33827-jo5kcr1c-m5.png" group-title="┃KANNADA PREMIUM┃", Zee Kannada ˢᴰ
+http://proxpanel.cc:80/h1wqD6CY/byxHYgX/693865
+
+#EXTINF:-1 tvg-id="9" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33827-jo5kcr1c-v4/imageContent-33827-jo5kcr1c-m5.png" group-title="┃KANNADA PREMIUM┃", Zee Kannada
+http://proxpanel.cc:80/h1wqD6CY/byxHYgX/693864
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pBwxgpsm/images.jpg" group-title="┃KANNADA PREMIUM┃", COLORS KANNADA ˢᴰ
+http://tv.cloudcdn.me:80/live.ts?channelId=132298&uid=15301&deviceMac=00:1A:79:31:34:0E
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pBwxgpsm/images.jpg" group-title="┃KANNADA PREMIUM┃", COLORS KANNADA 
+http://tv.cloudcdn.me:80/live.ts?channelId=43528&uid=15301&deviceMac=00:1A:79:31:34:0E
+  
+#EXTINF:-1, tvg-logo="https://i.ibb.co/ks2gbMg7/sq4-Q587-400x400.jpg" group-title="┃KANNADA PREMIUM┃",COLORS KANNADA MOVIE 
+http://tv.cloudcdn.me:80/live.ts?channelId=78858&uid=15301&deviceMac=00:1A:79:31:34:0E
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SqyWF7Z/channels4-profile.jpg" group-title="┃KANNADA PREMIUM┃", Zee Power ᴴᴰ 
+http://tv.cloudcdn.me:80/live.ts?channelId=132296&uid=15301&deviceMac=00:1A:79:31:34:0E
+
+#EXTINF:-1, tvg-logo="https://i.ibb.co/NWgSVTb/images.png" group-title="┃KANNADA PREMIUM┃",ZEE PICCHAR ᴴᴰ
+http://tv.cloudcdn.me:80/live.ts?channelId=86594&uid=15301&deviceMac=00:1A:79:31:34:0E
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/ccZM0W9f/unnamed-1.jpg" group-title="┃KANNADA PREMIUM┃", COLORS SUPER ᴴᴰ
+http://tv.cloudcdn.me:80/live.ts?channelId=78860&uid=15301&deviceMac=00:1A:79:31:34:0E
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQBThGz0/53297837.webp" group-title="┃KANNADA PREMIUM┃", STAR SUVARANA
+http://tv.cloudcdn.me:80/live.ts?channelId=78830&uid=15301&deviceMac=00:1A:79:31:34:0E
+
+#EXTINF:-1 tvg-id="suvarnaplus.in" tvg-name="Suvarna Plus" tvg-logo="https://i.ibb.co/WpVFZMGz/images.jpg" group-title="┃KANNADA PREMIUM┃",Suvarna Plus
+http://proxpanel.cc:80/h1wqD6CY/byxHYgX/693873
+
+#EXTINF:-1 tvg-id="Udaya.in" tvg-logo="https://i.ibb.co/WvvfNsF1/images-3.jpg" group-title="┃KANNADA SD┃", UDAYA
+http://proxpanel.cc:80/h1wqD6CY/byxHYgX/693868
+
+#EXTINF:-1 tvg-id="UdayaComedy.in" tvg-logo="734.jpg" group-title="┃KANNADA SD┃", UDAYA COMEDY
+http://proxpanel.cc:80/h1wqD6CY/byxHYgX/693869
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35vjJn8S/250312744001.jpg" group-title="┃KANNADA SD┃",UDAYA MUSIC
+http://proxpanel.cc:80/h1wqD6CY/byxHYgX/693866
+
+#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-logo="https://i.ibb.co/VW3BjyHf/Udaya-Movies.png" group-title="┃KANNADA SD┃", UDAYA MOVIES
+http://proxpanel.cc:80/h1wqD6CY/byxHYgX/693867
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HDdnTHFW/channels4-profile.jpg" group-title="┃KANNADA SD┃", NEWS 18 KANNADA
+https://jmp2.uk/stvp-INBD2500012V1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nstsmss4/images.png" group-title="┃KANNADA SD┃", TV5 KANNADA
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/tv5_nim_https/110322/tv5/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YMF78t4/images-1.png" group-title="┃KANNADA SD┃", TV9 KANNADA
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9kanmo6oiq/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v4Vg4JzW/channels4-profile-1.jpg" group-title="┃KANNADA SD┃", PUBLIC TV 
+http://tv.cloudcdn.me:80/live.ts?channelId=43531&uid=15301&deviceMac=00:1A:79:31:34:0E
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxz0vTH9/Power-TV.png" group-title="┃KANNADA SD┃" ,PowerTV
+https://powertvkannada.com/hls/stream.m3u8 
+
+#EXTINF:-1 tvg-id="181" tvg-chno="181" tvg-name="News 1st" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/news-1st.png" group-title="┃KANNADA SD┃", News 1st
+https://d1msejlow1t3l4.cloudfront.net/fta/News1st/playlist.m3u8?ads.channel=6388&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1779907232~exp=1779928832~acl=!*/fta/News1st/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_48.214.55.66_yuppfast_2_channel_181_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_48.214.55.66_yuppfast_2_channel_181_-1~hmac=df5afeef6d85a8c9fb47312eb1912e44a785cc41594d33705946e2cd3b980eb9&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=News1st&ads.language=KAN&ads.user=0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s93qc0ts/ayush-tv-new-bel-road-bangalore-satellite-channels-1hz3pyq0r8.jpg"  group-title="┃KANNADA SD┃",Ayush TV
+https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p6Vx5j5X/images-2.jpg" group-title="┃KANNADA SD┃", PUBLIC MOVIES 
+http://tv.cloudcdn.me:80/live.ts?channelId=90048&uid=15301&deviceMac=00:1A:79:31:34:0E
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/ndgvsw.jpeg" group-title="┃KANNADA SD┃",Aastha Kannada
+https://aasthaott.akamaized.net/110923/smil:aasthakannada.smil/playlist.m3u8 
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TBXFB2vh/images-5.jpg" group-title="┃KANNADA SD┃",Zee Kannada News 
+https://d3vzwoqcbpfm8p.cloudfront.net/index_2.m3u8
+
+#EXTINF:-1 tvg-id="3548" tvg-name="NKR TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NKRTV.png" tvg-language="Kannada" group-title="┃KANNADA SD┃", NKR TV
+https://stream.ottlive.co.in/nkrtv/index.m3u8
+
+#EXTINF:-1 tvg-id="3371" tvg-name="Ashwaveega News 24x7" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ashwaveega_News_24x7.png" tvg-language="Kannada" group-title="┃KANNADA SD┃", Ashwaveega News 24x7
+https://mars.streambridge.cloud/sls/ashwaveega/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NKRTVKannada.in@SD" tvg-logo="https://i.ibb.co/8gQpJDk3/images.png" group-title="┃KANNADA SD┃",NKR TV Kannada 
+https://stream.ottlive.co.in/nkrtv/index.m3u8
+
+#EXTINF:-1 tvg-id="3464" tvg-name="Guarantee News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/GuaranteeNews.png" tvg-language="Kannada" group-title="┃KANNADA SD┃", Guarantee News
+https://guaranteenews.in:8443/live/gnews/index.m3u8

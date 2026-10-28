@@ -1,0 +1,241 @@
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cSjjFngz/Black-Bold-Initial-AI-Business-Logo-20241014-162307-0000.png" group-title="┃LANGUAGE INTRO┃",RADIO
+https://hr02-ynr.github.io/yr/24.ts
+
+#EXTINF:1 tvg-logo="https://i.ibb.co/G6dbx2P/Ekv3xn-WJpp.png" group-title="┃RADIO┃",Non-Stop Hindi
+http://s5.voscast.com:8216/stream 
+ 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/wQXY8kn/images.jpg" group-title="┃RADIO┃" ,All India Radio 🇮🇳
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio00264kbps.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9kPtmv08/radio-bolly-fm.jpg" group-title="┃RADIO┃",Bolly FM
+http://stream.radiobollyfm.in:8201/hd?t=1526570335
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tTKN7SF5/images-8.png" group-title="┃RADIO┃",Suno FM
+http://51.255.235.165:5476/;stream.mp3?listening-from-radio-garden=1601020600078
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k6qRV8b0/images-9.png" group-title="┃RADIO┃",Ujala Radio
+http://stream2.ujala.nl/stream/2/listen.mp3
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8LfK4tZJ/size-m-1716488773.jpg" group-title="┃RADIO┃",ALKA YAGNIK RADIO
+https://drive.uber.radio/uber/bollywoodalkayagnik/icecast.audio
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5XWKG94B/Let-s-Play-Sonu-Nigam-Hindi-20250331054548.jpg" group-title="┃RADIO┃",SONU NIGAM RADIO
+https://drive.uber.radio/uber/bollywoodsonunigam/icecast.audio
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1tpsRQVk/images-12.jpg" group-title="┃RADIO┃",SHREYA GOSHAL RADIO
+https://drive.uber.radio/uber/bollywoodshreyaghosal/icecast.audio
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xqKdGN3j/images-11.jpg" group-title="┃RADIO┃",ARIJIT SINGH RADIO
+https://drive.uber.radio/uber/bollywoodaruitsingh/icecast.audio
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v6ztpy8x/images-10.jpg" group-title="┃RADIO┃",BOLLYWOOD 90'S ROMANTIC RADIO
+http://158.69.254.140:8098/stream
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFM5TH00/images-9.jpg" group-title="┃RADIO┃",BOLLYWOOD SAD SONGS
+https://stream-150.zeno.fm/yvqymrxdxi7vv?zs=mZUru5oLQxmUANF8TayjdQ
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WWwdzCgj/images-8.jpg" group-title="┃RADIO┃",HINDI DESI BOLLYWOOD EVERGREEN HITS
+http://cast2.asurahosting.com:8569/stream
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HMKWHBP/283vfjq6wvf5.png" group-title="┃RADIO┃",RETRO BOLLYWOOD
+https://stream-142.zeno.fm/g372rxef798uv?zs=zKnPij6mQ2-i-51tQ2dLFA
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W4ttTZtb/35477-radio.png" group-title="┃RADIO┃",BEST BOLLYWOOD 90'S
+https://stream-141.zeno.fm/u0hrd3xkzhhvv?zs=--jfKarhQ-K5zHGC77B-ZA
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Zz8nwsdt/ishq-1048-fm-32f5defc.png" group-title="┃RADIO┃",RADIO ISHQ
+https://drive.uber.radio/uber/bollywoodlove/icecast.audio
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LdtcRD1k/images-7.jpg" group-title="┃RADIO┃",RADIO MIRCHI LOVE
+https://drive.uber.radio/uber/lrbollywood/icecast.audio
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RGQtmdNr/radio-badal-33e4f271.png" group-title="┃RADIO┃",RADIO BADAL
+https://stream-147.zeno.fm/nhrtcxg09u8uv?zs=iiYW0OmMRtWGmNv0IqRd8w
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kgsDDhcd/logo-0-WBt-PIITF3.jpg" group-title="┃RADIO┃",MIRCHI 90'S RADIO
+https://sp14.instainternet.com/8098/stream
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fVMS5Yxc/9f-KKkfb-JKE.png" group-title="┃RADIO┃",BOLLYWOOD 90'S RADIO
+https://stream-149.zeno.fm/rm4i9pdex3cuv?zs=nywOJBPKQcKfapkqRzlJNg
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x81MWJML/images.png" group-title="┃RADIO┃",BOLLYWOOD LOVE
+https://drive.uber.radio/uber/bollywoodlove/icecast.audio
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d4WQyB26/Nostalgic-Bollywood-90s.jpg" group-title="┃RADIO┃",NOSTALGIC BOLLYWOOD 90'S
+https://www.desizoneradio.com/relay3
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TxPmYxkK/images-6.jpg" group-title="┃RADIO┃",HITS OF BOLLYWOOD
+https://stream-140.zeno.fm/a2gyqzwpwfeuv?zs=ihNvr1ZGQHavUBr9frJ_AQ
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tpBd8CgW/Black-Bold-Initial-AI-Business-Logo-20241014-161500-0000.png" group-title="┃LANGUAGE INTRO┃",LATEST MOVIES
+https://hr02-ynr.github.io/yr/26.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TxFFBTj1/images-4.jpg" group-title="┃LATEST MOVIES┃",Carry on Jatta 4 (PUNJABI)
+https://pixeldrain.dev/api/file/xLpDDodo
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZpQdx0WL/images-3.jpg" group-title="┃LATEST MOVIES┃",Pitt Siyapa (PUNJABI)
+https://pixeldrain.dev/api/file/VBoop2C2
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TMzt5mBT/images-4.jpg" group-title="┃LATEST MOVIES┃",Lahukheda (PUNJABI)
+https://pixeldrain.dev/api/file/VBadCfPt
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rGcGsYrR/images-2.jpg" group-title="┃LATEST MOVIES┃",Kankvanni (PUNJABI)
+https://pixeldrain.dev/api/file/DgkameBt
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5xxZLwS4/MV5-BZj-Ni-ZWE0-Mjgt-Yjcy-NC00-Zj-M3-LWIy-Yjkt-OWQ0-Mz-Fk-NWI3-Yj-Jh-Xk-Ey-Xk-Fqc-Gc-V1-FMjpg-UX1000.jpg" group-title="┃LATEST MOVIES┃",Vajood (PUNJABI)
+https://pixeldrain.dev/api/file/F5LUFv55
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Zps92WGF/qwwqwqwqw.jpg" group-title="┃LATEST MOVIES┃",Bebe Main Badmash Banuga (PUNJABI)
+https://pixeldrain.dev/api/file/332ridEh
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rfXjdB82/vcxzbnm.jpg" group-title="┃LATEST MOVIES┃",Yaar Jigree Kasooti Degree (PUNJABI)
+https://pixeldrain.dev/api/file/3vJhgpGG
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Zz3kK8Xv/uytre.jpg" group-title="┃LATEST MOVIES┃",Chaali Din (PUNJABI)
+https://pixeldrain.dev/api/file/E7vWUyne
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SDKhCkRQ/images-2.jpg" group-title="┃LATEST MOVIES┃",Avatar Fire and Ash (HOLLYWOOD)
+https://pixeldrain.dev/api/file/NetHrqns
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Sw51SZb7/MV5-BNTFm-ZWI4-Ym-Mt-Nm-Q0-ZC00-ZGQw-LTk1-OWEt-Zj-Ay-Zm-Iz-OGY0-MGFi-Xk-Ey-Xk-Fqc-Gc-V1-QL75-UX190-CR0-0-1.jpg" group-title="┃LATEST MOVIES┃",The Sheep Detectives (HOLLYWOOD)
+https://pixeldrain.dev/api/file/BdbqwmBx
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N24ckHF7/images-5.jpg" group-title="┃LATEST MOVIES┃",Obsession (HOLLYWOOD)
+https://pixeldrain.dev/api/file/NSeGWRbN
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z6txr8Bp/images-4.jp" group-title="┃LATEST MOVIES┃",Doraemon The Castle Of The Undersea Devil (HOLLYWOOD)
+https://pixeldrain.dev/api/file/RZbq7tWX
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/spj2Mt81/images-3.jpg" group-title="┃LATEST MOVIES┃",Spider-Man Brand New Day (HOLLYWOOD)
+https://pixeldrain.dev/api/file/SxyzZur7
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXNCyN0x/images.jpg" group-title="┃LATEST MOVIES┃",TOXiC (BOLLYWOOD)
+https://pixeldrain.dev/api/file/hVfYVjJT
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nMqSZJKk/images-11.jpg" group-title="┃LATEST MOVIES┃",Best of the Best (BOLLYWOOD)
+https://pixeldrain.dev/api/file/jNkAgH8z
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kg0P69Gc/weqe.jpg" group-title="┃LATEST MOVIES┃",The India Story (BOLLYWOOD)
+https://pixeldrain.dev/api/file/w8yNw2k1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/678F7gR2/images-12.jpg" group-title="┃LATEST MOVIES┃",Lust Stories 3 (BOLLYWOOD)
+https://pixeldrain.dev/api/file/AB7grLLQ
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NdKf3rR0/images-3.jpg" group-title="┃LATEST MOVIES┃",Shaque Trust No One (BOLLYWOOD)
+https://pixeldrain.dev/api/file/9FcoJyAe
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tMkRb24W/Hunkkaar-The-Roar-Season-01-3-Zm8a-Jv.jpg" group-title="┃LATEST MOVIES┃",Hunkkaar - The Roar S01 (BOLLYWOOD)
+https://pixeldrain.dev/api/file/TnLkARuY
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6cJB8HmR/erwe.jpg" group-title="┃LATEST MOVIES┃",Awarapan 2 (BOLLYWOOD)
+https://pixeldrain.dev/api/file/Zpr2Mf3d
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mr8Jd8yz/tyere.jpg" group-title="┃LATEST MOVIES┃",Dont Be Shy (BOLLYWOOD)
+https://pixeldrain.dev/api/file/QohaFaYD
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wj0Z56L/etrt.jpg" group-title="┃LATEST MOVIES┃",Baby Do Die Do (BOLLYWOOD)
+https://pixeldrain.dev/api/file/e3LTfaza
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsQHXhKv/qwer.jpg" group-title="┃LATEST MOVIES┃",Bombay Stories (BOLLYWOOD)
+https://pixeldrain.dev/api/file/57ZvPRxy
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hJSFJHXG/images.jpg" group-title="┃LATEST MOVIES┃",Paro Pinaki Ki Kahani (BOLLYWOOD)
+https://pixeldrain.dev/api/file/Q1nP5BKz
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z1gF8dQv/aszasd.jpg" group-title="┃LATEST MOVIES┃",Ohh My Dog (BOLLYWOOD)
+https://pixeldrain.dev/api/file/PNYZZ7CA
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mrbYgGKd/zxzxzxzx.jpg" group-title="┃LATEST MOVIES┃",Dupahiya S1 (BOLLYWOOD)
+https://pixeldrain.dev/api/file/2Bj3Uui4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KpFmFGN3/images-1.jpg" group-title="┃LATEST MOVIES┃",Dupahiya S2 (BOLLYWOOD)
+https://pixeldrain.dev/api/file/UvaCqjd5
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wh48XH0W/images-2.jpg" group-title="┃LATEST MOVIES┃",The Vvaan (BOLLYWOOD)
+https://pixeldrain.dev/api/file/SGSc3iiK
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SF7NGH6/ishqa-ishqa-2026-hindi-season-1-complete-amzn-17477.jpg" group-title="┃LATEST MOVIES┃",Ishqa Ishqa S1 (BOLLYWOOD)
+https://pixeldrain.dev/api/file/BhTavrM6
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NwBG5sh/images-2.jpg" group-title="┃LATEST MOVIES┃",Reporting Live (BOLLYWOOD)
+https://pixeldrain.dev/api/file/QnTDbobw
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XxMD9Whg/p33658689-v-v4-aa.jpg" group-title="┃LATEST MOVIES┃",Chennai Love Story (SOUTH)
+https://pixeldrain.dev/api/file/88jqKAur
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tPz3hHtC/images-5.jpg" group-title="┃LATEST MOVIES┃",Vishwanath (SOUTH)
+https://pixeldrain.dev/api/file/TuaBpYbB
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rg9rzLH/images-6.jpg" group-title="┃LATEST MOVIES┃",Raakaasa (SOUTH)
+https://pixeldrain.dev/api/file/nLfatsmo
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3qvnGj9/JKL.jpg" group-title="┃LATEST MOVIES┃",Tula Pahata (SOUTH)
+https://pixeldrain.dev/api/file/1rTidS3n
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RGvLvd0N/JLIM.jpg" group-title="┃LATEST MOVIES┃",Cocaine (SOUTH)
+https://pixeldrain.dev/api/file/djtWT4fo
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TMtzVLbV/images-7.jpg" group-title="┃LATEST MOVIES┃",Harudu (SOUTH)
+https://pixeldrain.dev/api/file/rCoB2HfZ
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nMz6PKY6/images-8.jpg" group-title="┃LATEST MOVIES┃",Maharaja Hostel (SOUTH)
+https://pixeldrain.dev/api/file/n4wzzcXo
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TqPQ1cw8/images-10.jpg" group-title="┃LATEST MOVIES┃",Kattalan (SOUTH)
+https://pixeldrain.dev/api/file/PTCXusE2
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WvP4sNhr/images-9.jpg" group-title="┃LATEST MOVIES┃",Tara and Akash Love Beyond Realms (SOUTH)
+https://pixeldrain.dev/api/file/FKRPGTA3
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k6y1J50W/images-8.jpg" group-title="┃LATEST MOVIES┃",Modha Rathri (SOUTH)
+https://pixeldrain.dev/api/file/XXXkTZuV
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0ynBb5kM/images-7.jpg" group-title="┃LATEST MOVIES┃",Irumudi (SOUTH)
+https://pixeldrain.dev/api/file/t9vUZNGj
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LD9XKRCS/images-6.jpg" group-title="┃LATEST MOVIES┃",Thudakkam (SOUTH)
+https://pixeldrain.dev/api/file/WpKdEUpg
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ks86fh2z/images-5.jpg" group-title="┃LATEST MOVIES┃",Heer Sara (SOUTH)
+https://pixeldrain.dev/api/file/aP6LxpgY
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxPBgCht/images.jpg" group-title="┃LATEST MOVIES┃",Battle (SOUTH)
+https://pixeldrain.dev/api/file/zL3anNxC
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TD5DGftd/images-1.jpg" group-title="┃LATEST MOVIES┃",Mension House Mallesh (SOUTH)
+https://pixeldrain.dev/api/file/mTzdfh2q
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxN9w9P5/images-2.jpg" group-title="┃LATEST MOVIES┃",Mango Pachcha (SOUTH)
+https://pixeldrain.dev/api/file/g7iVPssp
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LD143Hkf/sdswew.jpg" group-title="┃LATEST MOVIES┃",Habeebi (SOUTH)
+https://pixeldrain.dev/api/file/inpKLQ6U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nZ6w7s8/sadsad.jpg" group-title="┃LATEST MOVIES┃",Sardar 2 (SOUTH)
+https://pixeldrain.dev/api/file/6XMncDwj
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KpSWBNZ1/Poster-c17b29e0-a09d-11f1-aa92-593ff2c15e33.jpg" group-title="┃LATEST MOVIES┃",Romanchaka (SOUTH)
+https://pixeldrain.dev/api/file/tpxWcsng
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SD42JrSf/qewrersd.jpg" group-title="┃LATEST MOVIES┃",Bethlehem Kudumba Unit (SOUTH)
+https://pixeldrain.dev/api/file/mGr9fg3M
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3mct5gsm/images.jpg" group-title="┃LATEST MOVIES┃",Vadam (SOUTH)
+https://pixeldrain.dev/api/file/PubY9U6e
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXbkWXXn/MV5-BMWM2-ZDY1-Mj-Qt-N2-Rk-ZS00-MWVm-LWEz-OWIt-ZDIy-ZGNk-NTQ3-OWIw-Xk-Ey-Xk-Fqc-Gc-V1.jpg" group-title="┃LATEST MOVIES┃",Khalifa (SOUTH)
+https://pixeldrain.dev/api/file/cyQmoHz5
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/svGz9sRd/sddefault.jpg" group-title="┃LATEST MOVIES┃",Paatki (SOUTH)
+https://pixeldrain.dev/api/file/LmYsY8pq
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kgf8kpYZ/MV5-BYTkz-Nj-Qx-ZDct-ODMz-OC00-NDQw-LWI5-Nj-Yt-MWI1-NWI5-M2-M3-NTdh-Xk-Ey-Xk-Fqc-Gc-V1.jpg" group-title="┃LATEST MOVIES┃",Mandaadi (SOUTH)
+https://pixeldrain.dev/api/file/axMEjaEr
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G3pvvP7W/images-1.jpg" group-title="┃LATEST MOVIES┃",Eyes (SOUTH)
+https://pixeldrain.dev/api/file/qHqUwyqu
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G4gqLdSg/images-5.jpg" group-title="┃LATEST MOVIES┃",Kinare Kinare (SOUTH)
+https://pixeldrain.dev/api/file/Y6cGKDC5
